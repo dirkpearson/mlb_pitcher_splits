@@ -1,6 +1,9 @@
 class Pitcher < ApplicationRecord
 
   has_many :pitcher_batters
-  belongs_to :team
 
+  has_many :likes
+
+  has_many :fans, :through => :likes, :source => :user
+  belongs_to :team
 end
