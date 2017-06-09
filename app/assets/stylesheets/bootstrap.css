@@ -85,7 +85,7 @@ sub {
   bottom: -.25em;
 }
 img {
-  opacity: 0.2;
+  
   border: 0;
 }
 svg:not(:root) {

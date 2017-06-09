@@ -6,7 +6,7 @@
   <div class="col-md-12 mb-2">
     <dl class="dl-horizontal">
       <dt>Team</dt>
-      <dd><%= @pitcher.team.code %></dd>
+      <dd><%= @pitcher.team.code.upcase %></dd>
       <dt>Throws</dt>
       <dd><%= @pitcher.throws %></dd>
 
@@ -37,26 +37,26 @@
 
             <th>Batter</th>
             <th>Batter Team</th>
-            <th>Np</th>
-            <th>Pa</th>
-            <th>Ab</th>
+            <th>#Pitches</th>
+            <th>PA</th>
+            <th>AB</th>
             <th>Hits</th>
-            <th>Double</th>
-            <th>Triple</th>
-            <th>Hr</th>
+            <th>2B</th>
+            <th>3B</th>
+            <th>HR</th>
             <th>Avg</th>
-            <th>Obp</th>
+            <th>OBP</th>
             <th>Slg</th>
-            <th>Ops</th>
-            <th>Woba</th>
+            <th>OPS</th>
+            <th>wOPS</th>
 
           </tr>
 
           <% @pitcher_batters.each do |pitcher_batter| %>
           <tr>
 
-            <td><%= pitcher_batter.batter.batter_name %></td>
-            <td><%= pitcher_batter.team_code %></td>
+            <td><a href="/batters/<%= pitcher_batter.batter_id %>" class="link_to"><%= pitcher_batter.batter.batter_name %></td>
+            <td><%= pitcher_batter.team_code.upcase %></td>
             <td><%= pitcher_batter.np %></td>
             <td><%= pitcher_batter.pa %></td>
             <td><%= pitcher_batter.ab %></td>

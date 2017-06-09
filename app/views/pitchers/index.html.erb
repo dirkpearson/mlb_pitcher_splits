@@ -36,14 +36,14 @@
       <% @pitchers.each do |pitcher| %>
       <tr>
         <td><%= pitcher.team.code %></td>
-        <td><%= pitcher.pitcher_name %></td>
-        <td><%= pitcher.throws %></td>
+        <td><a href="/pitchers/<%= pitcher.id %>" class="link_to"><%= pitcher.pitcher_name %></td>
+        <td><%= pitcher.throws%></td>
         <td><%= pitcher.pitcher_id %></td>
 
 
         <td>
           <a href="/pitchers/<%= pitcher.id %>" class="btn btn-primary">See More</a>
-          <a href="/delete_pitcher/<%= pitcher.id %>" rel="nofollow" class='btn btn-danger'><i class="fa fa-trash" aria-hidden="true"></i></a>
+
         </td>
       </tr>
       <% end %>

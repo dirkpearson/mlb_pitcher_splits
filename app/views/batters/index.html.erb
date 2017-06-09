@@ -36,8 +36,8 @@
         <th>Team</th>
         <th>Batter name</th>
         <th>Batting Side</th>
-        <th>Batter ID</th>
-        <th>Actions</th>
+        <th>ESPN ID</th>
+        <th></th>
 
       </tr>
 
@@ -45,15 +45,15 @@
       <tr>
 
         <td><%= batter.team.code %></td>
-        <td><%= batter.batter_name %></td>
-        <td><%= batter.bats %></td>
-        <td><%= batter.bats_id %></td>
-        <td>
-          <a href="/batters/<%= batter.id %>" class="btn btn-primary">Show</a>
-          <a href="/delete_batter/<%= batter.id %>" class="btn btn-danger" rel="nofollow"><i class="fa fa-trash" aria-hidden="true"></i></a>
-        </td>
-      </tr>
-      <% end %>
-    </table>
+        <td><a href="/batters/<%= batter.id %>" class="link_to"><%= batter.batter_name %></td>
+          <td><%= batter.bats %></td>
+          <td><%= batter.bats_id %></td>
+          <td>
+            <a href="/batters/<%= batter.id %>" class="btn btn-primary">Details</a>
+
+          </td>
+        </tr>
+        <% end %>
+      </table>
+    </div>
   </div>
-</div>

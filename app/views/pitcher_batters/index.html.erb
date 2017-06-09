@@ -45,8 +45,8 @@
 
       <% @pitcher_batters.each do |pitcher_batter| %>
       <tr>
-        <td><%= pitcher_batter.pitcher.pitcher_name %></td>
-        <td><%= pitcher_batter.batter.batter_name %></td>
+        <td><a href="/pitchers/<%= pitcher_batter.pitcher_id %>" class="link_to"><%= pitcher_batter.pitcher.pitcher_name %></td>
+        <td><a href="/batters/<%= pitcher_batter.batter_id %>" class="link_to"><%= pitcher_batter.batter.batter_name %></td>
         <td><%= pitcher_batter.team_code.upcase %></td>
         <td><%= pitcher_batter.np %></td>
         <td><%= pitcher_batter.pa %></td>

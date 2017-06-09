@@ -58,8 +58,7 @@
 
           <ul class="nav navbar-nav navbar-right">
             <% if current_user!=nil %>
-            <li><a href="/users/<%= current_user.id %>">My Profile</a></li>
-            <li><a href="/users/edit"><%= current_user.email %></a></li>
+                        <li><a href="/users/edit"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> <%= current_user.email %></a></li>
             <li><a href="/users/sign_out" data-method="delete" rel="nofollow"><i class="fa fa-sign-out" aria-hidden="true"></i>Sign Out</a></li>
             <% else  %>
             <li><a href="/users/sign_in">Sign in</a></li>

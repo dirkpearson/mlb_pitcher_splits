@@ -33,7 +33,7 @@
           <tr>
             <th>Opp Pitcher</th>
             <th>Opp Team</th>
-            <th>Pitches</th>
+            <th>#Pitches</th>
             <th>PA</th>
             <th>AB</th>
             <th>Hits</th>
@@ -50,7 +50,7 @@
 
           <% @pitcher_batters.each do |pitcher_batter| %>
           <tr>
-            <td><%= pitcher_batter.pitcher_name %></td>
+            <td><a href="/pitchers/<%= pitcher_batter.pitcher_id %>" class="link_to"><%= pitcher_batter.pitcher_name %></td>
             <td><%= pitcher_batter.team_code %></td>
             <td><%= pitcher_batter.np %></td>
             <td><%= pitcher_batter.pa %></td>
