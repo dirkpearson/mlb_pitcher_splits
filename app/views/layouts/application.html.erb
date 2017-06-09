@@ -16,6 +16,7 @@
   <style>
   /* Only necessary if you are using navbar-fixed-top */
   body {
+    /*background-image:  url("http://sportsmockery.com/wp-content/uploads/2015/06/wrigley-field-sky-062315-ftr-twitterjpg_348s47j6rx1s15lcipokn3vsq.jpg");*/
     padding-top: 60px;
   }
   </style>
@@ -51,14 +52,14 @@
           <ul class="nav navbar-nav">
             <li><a href="/pitchers">Pitchers</a></li>
             <li><a href="/batters">Batters</a></li>
-            <li><a href="/stadia">Stadiums</a></li>
-            <li><a href="/my_likes">My Saved Pitchers</a></li>
+            <li><a href="/">Matchups</a></li>
+            <li><a href="/my_likes">My Favorites</a></li>
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
             <% if current_user!=nil %>
             <li><a href="/users/<%= current_user.id %>">My Profile</a></li>
-            <li><a href="/users/edit"><%= current_user.username %></a></li>
+            <li><a href="/users/edit"><%= current_user.email %></a></li>
             <li><a href="/users/sign_out" data-method="delete" rel="nofollow"><i class="fa fa-sign-out" aria-hidden="true"></i>Sign Out</a></li>
             <% else  %>
             <li><a href="/users/sign_in">Sign in</a></li>

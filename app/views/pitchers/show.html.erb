@@ -1,12 +1,12 @@
 <div class="page-header">
-  <h3>Pitcher #<%= @pitcher.id %></h3>
+  <h3><%= @pitcher.pitcher_name %></h3>
 </div>
 
 <div class="row">
   <div class="col-md-12 mb-2">
     <dl class="dl-horizontal">
       <dt>Team</dt>
-      <dd><%= @pitcher.team_id %></dd>
+      <dd><%= @pitcher.team.code %></dd>
       <dt>Throws</dt>
       <dd><%= @pitcher.throws %></dd>
 
@@ -16,7 +16,7 @@
       <dt>Last name</dt>
       <dd><%= @pitcher.last_name %></dd>
 
-      <dt>Pitcher name</dt>
+      <dt>Full Name</dt>
       <dd><%= @pitcher.pitcher_name %></dd>
       <dt>Pitcher ID</dt>
       <dd><%= @pitcher.player_id %></dd>
@@ -25,6 +25,10 @@
 
     </dl>
 
+
+    <div class="page-header">
+      <h3><%= @pitcher.pitcher_name %>'s Batter H2H Matchups</h3>
+    </div>
 
     <div class="row">
       <div class="col-md-12">
@@ -45,13 +49,13 @@
             <th>Slg</th>
             <th>Ops</th>
             <th>Woba</th>
-            
+
           </tr>
 
           <% @pitcher_batters.each do |pitcher_batter| %>
           <tr>
 
-            <td><%= pitcher_batter.batter_name %></td>
+            <td><%= pitcher_batter.batter.batter_name %></td>
             <td><%= pitcher_batter.team_code %></td>
             <td><%= pitcher_batter.np %></td>
             <td><%= pitcher_batter.pa %></td>
@@ -66,22 +70,16 @@
             <td><%= pitcher_batter.ops %></td>
             <td><%= pitcher_batter.woba %></td>
 
-                </tr>
+          </tr>
           <% end %>
         </table>
 
 
 
-    <div class="btn-group btn-group-justified">
-      <a href="/pitchers" class="btn btn-primary">
-        Back
-      </a>
-      <a href="/pitchers/<%= @pitcher.id %>/edit" class="btn btn-warning">
-        Edit
-      </a>
-      <a href="/delete_pitcher/<%= @pitcher.id %>" class="btn btn-danger" rel="nofollow">
-        Delete
-      </a>
+        <div class="btn-group btn-group-justified">
+          <a href="/pitchers" class="btn btn-primary">
+            Back
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
-</div>

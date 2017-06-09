@@ -11,8 +11,9 @@ class PitchersController < ApplicationController
     def show
       @pitcher = Pitcher.find(params[:id])
 
-      @pitcher_batters = PitcherBatter.select("pitcher_batters.*,batters.batter_name AS batter_name").joins("INNER JOIN batters on pitcher_batters.batter_id=batters.id").where(pitcher_id: params[:id])
+      #@pitcher_batters = PitcherBatter.select("pitcher_batters.*,batters.batter_name AS batter_name").joins("INNER JOIN batters on pitcher_batters.batter_id=batters.id").where(pitcher_id: params[:id])
 
+      @pitcher_batters = PitcherBatter.includes(:pitcher).where(pitcher_id: params[:id])
 render("pitchers/show.html.erb")
     end
 

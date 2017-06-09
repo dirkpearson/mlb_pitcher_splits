@@ -2,10 +2,10 @@ class PitcherBattersController < ApplicationController
 
   def index
 
-    @b = PitcherBatter.ransack(params[:b])
-    #@pitcher_batters = @b.result(:distinct => true).joins("pitchers on pitcher_batters.pitcher_id=pitchers.id joins batters on pitcher_batters.batter_id=batters.id")
+    @b = PitcherBatter.ransack(params[:q])
+    @pitcher_batters = @b.result(:distinct => true).includes(:pitcher,:batter)
     #@b = PitcherBatter.ransack(params[:b])
-
+=begin
     q = nil
     if !params[:q].nil?
       q=params[:q][:pitchers_pitcher_name_cont].strip
@@ -16,11 +16,22 @@ class PitcherBattersController < ApplicationController
   else
     @pitcher_batters = PitcherBatter.select("pitcher_batters.*,pitchers.pitcher_name as pitcher_name,batters.batter_name as batter_name").joins("INNER JOIN pitchers ON pitcher_batters.pitcher_id=pitchers.id INNER JOIN batters on pitcher_batters.batter_id=batters.id").where("LOWER(pitchers.pitcher_name) like '%#{q}%'")
   end
-
+=end
 logger.debug "pitcher_batters=#{@pitcher_batters.inspect}"
 
-    @batter_teams = @pitcher_batters.collect {|item|Team.new(code: item.team_code)}
+    @batter_teams=[]
+    team_hash={}
+    @pitcher_batters.collect do |item|
+      if team_hash[item.team_code].nil?
+        team_hash[item.team_code] = 1
+        item.team_code.upcase!
+        @batter_teams.push(item)
 
+      end
+    end
+
+    #@batter_teams = @pitcher_batters.select(:team_code).uniq
+logger.debug "batter_teams=#{@bater_teams.inspect}"
     render :index
   end
 

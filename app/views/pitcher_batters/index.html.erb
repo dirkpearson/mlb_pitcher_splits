@@ -1,22 +1,21 @@
 <div class="page-header">
   <h1>
-    Pitcher batters
-    <a href="/pitcher_batters/new" class="btn btn-lg btn-success">New Pitcher batter</a>
-  </h1>
+    Pitcher vs. Batter Historical Performance
+    </h1>
 </div>
 
 <%= search_form_for @b do |f| %>
 <p class="lead">Find a matchup:</p>
 
 <div class="form-group">
-  <%= f.label :pitchers_pitcher_name_cont, "Pitcher" %>
-  <%= f.text_field :pitchers_pitcher_name_cont, :class => "form-control", :placeholder => "Enter a few characters" %>
+  <%= f.label :pitcher_pitcher_name_cont, "Pitcher" %>
+  <%= f.text_field :pitcher_pitcher_name_cont, :class => "form-control", :placeholder => "Enter a few characters" %>
 </div>
 
 
 <div class="form-group">
   <%= f.label :team_code_eq, "Batting Team" %>
-  <%= f.select :team_code_eq, options_from_collection_for_select(@batter_teams, :code, :code), {:include_blank => false }, :class => "form-control" %>
+  <%= f.select :team_code_eq, options_from_collection_for_select(@batter_teams, :team_code, :team_code), {:include_blank => true }, :class => "form-control" %>
 </div>
 
 <%= f.submit :class => "btn btn-primary btn-block" %>
@@ -30,26 +29,25 @@
         <th>Pitcher</th>
         <th>Batter</th>
         <th>Batter Team</th>
-        <th>Np</th>
-        <th>Pa</th>
-        <th>Ab</th>
+        <th>#Pitches</th>
+        <th>PA</th>
+        <th>AB</th>
         <th>Hits</th>
-        <th>Double</th>
-        <th>Triple</th>
-        <th>Hr</th>
-        <th>Avg</th>
-        <th>Obp</th>
-        <th>Slg</th>
-        <th>Ops</th>
-        <th>Woba</th>
-        <th>Actions</th>
-      </tr>
+        <th>2B</th>
+        <th>3B</th>
+        <th>HR</th>
+        <th>AVG</th>
+        <th>OBP</th>
+        <th>SLG</th>
+        <th>OPS</th>
+        <th>WOBA</th>
+              </tr>
 
       <% @pitcher_batters.each do |pitcher_batter| %>
       <tr>
-        <td><%= pitcher_batter.pitcher_name %></td>
-        <td><%= pitcher_batter.batter_name %></td>
-        <td><%= pitcher_batter.team_code %></td>
+        <td><%= pitcher_batter.pitcher.pitcher_name %></td>
+        <td><%= pitcher_batter.batter.batter_name %></td>
+        <td><%= pitcher_batter.team_code.upcase %></td>
         <td><%= pitcher_batter.np %></td>
         <td><%= pitcher_batter.pa %></td>
         <td><%= pitcher_batter.ab %></td>
@@ -62,10 +60,7 @@
         <td><%= pitcher_batter.slg %></td>
         <td><%= pitcher_batter.ops %></td>
         <td><%= pitcher_batter.woba %></td>
-        <td>
-          <a href="/pitcher_batters/<%= pitcher_batter.id %>" class="btn btn-primary">Show</a>
-                    <a href="/delete_pitcher_batter/<%= pitcher_batter.id %>" class="btn btn-danger" rel="nofollow"><i class="fa fa-trash" aria-hidden="true"></i></a>
-        </td>
+
       </tr>
       <% end %>
     </table>
