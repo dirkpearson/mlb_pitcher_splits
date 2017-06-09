@@ -1,0 +1,73 @@
+<div class="page-header">
+  <h1>
+    Pitcher batters
+    <a href="/pitcher_batters/new" class="btn btn-lg btn-success">New Pitcher batter</a>
+  </h1>
+</div>
+
+<%= search_form_for @b do |f| %>
+<p class="lead">Find a matchup:</p>
+
+<div class="form-group">
+  <%= f.label :pitchers_pitcher_name_cont, "Pitcher" %>
+  <%= f.text_field :pitchers_pitcher_name_cont, :class => "form-control", :placeholder => "Enter a few characters" %>
+</div>
+
+
+<div class="form-group">
+  <%= f.label :team_code_eq, "Batting Team" %>
+  <%= f.select :team_code_eq, options_from_collection_for_select(@batter_teams, :code, :code), {:include_blank => false }, :class => "form-control" %>
+</div>
+
+<%= f.submit :class => "btn btn-primary btn-block" %>
+<a href="/pitcher_batters" class="btn btn-default btn-block">Clear filters</a>
+<% end %>
+
+<div class="row">
+  <div class="col-md-12">
+    <table class="table table-striped table-hover">
+      <tr>
+        <th>Pitcher</th>
+        <th>Batter</th>
+        <th>Batter Team</th>
+        <th>Np</th>
+        <th>Pa</th>
+        <th>Ab</th>
+        <th>Hits</th>
+        <th>Double</th>
+        <th>Triple</th>
+        <th>Hr</th>
+        <th>Avg</th>
+        <th>Obp</th>
+        <th>Slg</th>
+        <th>Ops</th>
+        <th>Woba</th>
+        <th>Actions</th>
+      </tr>
+
+      <% @pitcher_batters.each do |pitcher_batter| %>
+      <tr>
+        <td><%= pitcher_batter.pitcher_name %></td>
+        <td><%= pitcher_batter.batter_name %></td>
+        <td><%= pitcher_batter.team_code %></td>
+        <td><%= pitcher_batter.np %></td>
+        <td><%= pitcher_batter.pa %></td>
+        <td><%= pitcher_batter.ab %></td>
+        <td><%= pitcher_batter.hits %></td>
+        <td><%= pitcher_batter.double %></td>
+        <td><%= pitcher_batter.triple %></td>
+        <td><%= pitcher_batter.hr %></td>
+        <td><%= pitcher_batter.avg %></td>
+        <td><%= pitcher_batter.obp %></td>
+        <td><%= pitcher_batter.slg %></td>
+        <td><%= pitcher_batter.ops %></td>
+        <td><%= pitcher_batter.woba %></td>
+        <td>
+          <a href="/pitcher_batters/<%= pitcher_batter.id %>" class="btn btn-primary">Show</a>
+                    <a href="/delete_pitcher_batter/<%= pitcher_batter.id %>" class="btn btn-danger" rel="nofollow"><i class="fa fa-trash" aria-hidden="true"></i></a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>

@@ -1,0 +1,105 @@
+ESPN_ID,Pitcher_name(FL),Name(FL),H_Team,H/A,Bats,NP,PA,AB,Hits,2B,3B,HR,Runs,RBI,BB,IBB,SO,HBP,SB,CS,AVG,OBP,SLG,OPS,wOBA,ESPN_ID(p),Pitcher_name(FL),P_Team,Throws,Stadium
+5031,Jerad Eickhoff,Brandon Phillips,atl,H,R,7,2,2,1,1,0,0,0,1,0,0,0,0,0,0,0.5,0.5,1,1.5,0.625,33057,Jerad Eickhoff,phi,R,SunTrust Park
+33080,Jerad Eickhoff,Adonis Garcia,atl,H,R,27,6,6,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,33057,Jerad Eickhoff,phi,R,SunTrust Park
+30157,Jerad Eickhoff,Tyler Flowers,atl,H,R,13,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,33057,Jerad Eickhoff,phi,R,SunTrust Park
+28476,Jerad Eickhoff,Matt Kemp,atl,H,R,18,5,5,2,0,0,0,0,0,0,0,1,0,0,0,0.4,0.4,0.4,0.8,0.36,33057,Jerad Eickhoff,phi,R,SunTrust Park
+34895,Jerad Eickhoff,Dansby Swanson,atl,H,R,20,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,33057,Jerad Eickhoff,phi,R,SunTrust Park
+6478,Jerad Eickhoff,Nick Markakis,atl,H,L,61,19,16,3,0,0,0,0,2,2,0,3,0,0,0,0.188,0.263,0.188,0.451,0.216,33057,Jerad Eickhoff,phi,R,SunTrust Park
+31327,Jerad Eickhoff,Ender Inciarte,atl,H,L,36,13,13,1,0,0,0,1,0,0,0,1,0,0,0,0.077,0.077,0.077,0.154,0.069,33057,Jerad Eickhoff,phi,R,SunTrust Park
+31359,Jerad Eickhoff,Matt Adams,atl,H,L,6,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1,0.45,33057,Jerad Eickhoff,phi,R,SunTrust Park
+30910,Mike Foltynewicz,Daniel Nava,phi,A,S,14,4,2,2,1,0,0,1,0,2,0,0,0,0,0,1,1,1.5,2.5,0.887,31819,Mike Foltynewicz,atl,R,SunTrust Park
+31811,Mike Foltynewicz,Cameron Rupp,phi,A,R,28,7,6,0,0,0,0,0,0,1,0,1,0,0,0,0,0.143,0,0.143,0.1,31819,Mike Foltynewicz,atl,R,SunTrust Park
+33304,Mike Foltynewicz,Andrew Knapp,phi,A,S,11,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,31819,Mike Foltynewicz,atl,R,SunTrust Park
+32163,Mike Foltynewicz,Maikel Franco,phi,A,R,26,8,8,3,0,0,1,2,1,0,0,0,0,0,0,0.375,0.375,0.75,1.125,0.475,31819,Mike Foltynewicz,atl,R,SunTrust Park
+29670,Mike Foltynewicz,Freddy Galvis,phi,A,S,41,12,10,2,0,0,0,0,2,1,0,3,0,0,0,0.2,0.25,0.2,0.45,0.208,31819,Mike Foltynewicz,atl,R,SunTrust Park
+31738,Mike Foltynewicz,Aaron Altherr,phi,A,R,23,5,5,1,0,0,0,1,0,0,0,4,0,0,0,0.2,0.2,0.2,0.4,0.18,31819,Mike Foltynewicz,atl,R,SunTrust Park
+31995,Mike Foltynewicz,Tommy Joseph,phi,A,R,6,3,3,2,0,0,1,1,1,0,0,0,0,0,0,0.667,0.667,1.667,2.333,0.967,31819,Mike Foltynewicz,atl,R,SunTrust Park
+31130,Mike Foltynewicz,Cesar Hernandez,phi,A,S,50,11,8,1,0,0,0,0,0,3,2,3,0,0,0,0.125,0.364,0.125,0.489,0.273,31819,Mike Foltynewicz,atl,R,SunTrust Park
+32868,Mike Foltynewicz,Odubel Herrera,phi,A,L,46,11,11,3,0,0,0,0,0,0,0,5,0,0,0,0.273,0.273,0.273,0.545,0.245,31819,Mike Foltynewicz,atl,R,SunTrust Park
+32170,Zack Wheeler,Rougned Odor,tex,H,L,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+3878,Zack Wheeler,Adrian Beltre,tex,H,R,14,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+30456,Zack Wheeler,Jonathan Lucroy,tex,H,R,16,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+30445,Zack Wheeler,Robinson Chirinos,tex,H,R,10,3,3,1,0,0,1,1,1,0,0,1,0,0,0,0.333,0.333,1.333,1.667,0.667,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+29515,Zack Wheeler,Elvis Andrus,tex,H,R,13,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0,0.333,0.233,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+6205,Zack Wheeler,Shin-Soo Choo,tex,H,L,13,3,3,1,1,0,0,0,0,0,0,1,0,0,0,0.333,0.333,0.667,1,0.417,31267,Zack Wheeler,nym,R,Rangers Ballpark in Arlington
+28671,Yu Darvish,Asdrubal Cabrera,nym,A,S,36,10,10,5,2,0,1,3,3,0,0,2,0,2,0,0.5,0.5,1,1.5,0.63,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+6125,Yu Darvish,Curtis Granderson,nym,A,L,33,7,6,1,1,0,0,1,0,1,0,2,0,0,0,0.167,0.286,0.333,0.619,0.279,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+5411,Yu Darvish,Jose Reyes,nym,A,S,26,8,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+29590,Yu Darvish,Neil Walker,nym,A,S,10,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+29951,Yu Darvish,Travis d'Arnaud,nym,A,R,9,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0.5,0,0.5,0.35,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+28954,Yu Darvish,Jay Bruce,nym,A,L,10,3,3,2,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,0.667,1.333,0.6,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+30953,Yu Darvish,Lucas Duda,nym,A,L,8,2,1,1,0,0,1,2,2,1,0,0,0,0,0,1,1,4,5,1.35,32055,Yu Darvish,tex,R,Rangers Ballpark in Arlington
+29691,Jose Urena,Jon Jay,chc,H,L,9,2,1,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,2,0.8,33107,Jose Urena,mia,R,Wrigley Field
+29551,Jose Urena,Jason Heyward,chc,H,L,9,2,2,1,0,0,1,1,1,0,0,0,0,0,0,0.5,0.5,2,2.5,1,33107,Jose Urena,mia,R,Wrigley Field
+33172,Jose Urena,Kris Bryant,chc,H,R,12,3,2,0,0,0,0,1,0,1,0,1,0,0,0,0,0.333,0,0.333,0.233,33107,Jose Urena,mia,R,Wrigley Field
+28586,Jose Urena,Miguel Montero,chc,H,L,18,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,33107,Jose Urena,mia,R,Wrigley Field
+30782,Jose Urena,Anthony Rizzo,chc,H,L,12,3,2,1,1,0,0,0,1,1,0,0,0,0,0,0.5,0.667,1,1.667,0.65,33107,Jose Urena,mia,R,Wrigley Field
+32656,Jose Urena,Addison Russell,chc,H,R,5,2,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,2,0.8,33107,Jose Urena,mia,R,Wrigley Field
+30635,John Lackey,Tyler Moore,mia,A,R,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2,3,1.25,5203,John Lackey,chc,R,Wrigley Field
+30726,John Lackey,Dee Gordon,mia,A,L,33,8,7,2,0,0,0,1,0,1,0,2,0,1,0,0.286,0.375,0.286,0.661,0.312,5203,John Lackey,chc,R,Wrigley Field
+31784,John Lackey,Derek Dietrich,mia,A,L,18,6,5,2,0,0,0,1,0,0,0,0,1,0,0,0.4,0.5,0.4,0.9,0.417,5203,John Lackey,chc,R,Wrigley Field
+31283,John Lackey,Christian Yelich,mia,A,L,26,6,4,2,1,0,0,0,2,1,0,0,0,0,0,0.5,0.5,0.75,1.25,0.475,5203,John Lackey,chc,R,Wrigley Field
+29258,John Lackey,A.J. Ellis,mia,A,R,14,3,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5203,John Lackey,chc,R,Wrigley Field
+30583,John Lackey,Giancarlo Stanton,mia,A,R,19,6,5,1,0,0,0,1,1,1,0,2,0,0,0,0.2,0.333,0.2,0.533,0.267,5203,John Lackey,chc,R,Wrigley Field
+31668,John Lackey,Marcell Ozuna,mia,A,R,29,7,7,1,0,0,0,1,0,0,0,3,0,0,0,0.143,0.143,0.143,0.286,0.129,5203,John Lackey,chc,R,Wrigley Field
+4570,John Lackey,Ichiro Suzuki,mia,A,L,395,130,122,37,6,1,1,24,7,7,2,16,1,13,0,0.303,0.346,0.393,0.74,0.329,5203,John Lackey,chc,R,Wrigley Field
+31116,John Lackey,Christian Colon,mia,A,R,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0.9,5203,John Lackey,chc,R,Wrigley Field
+32177,John Lackey,J.T. Realmuto,mia,A,R,21,6,6,2,0,0,0,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,0.3,5203,John Lackey,chc,R,Wrigley Field
+29087,Jimmy Nelson,Denard Span,sf,A,L,20,8,8,2,0,0,0,0,0,0,0,0,0,1,0,0.25,0.25,0.25,0.5,0.225,32738,Jimmy Nelson,mil,R,Miller Park
+30112,Jimmy Nelson,Buster Posey,sf,A,R,23,6,5,2,0,0,0,1,2,1,0,0,0,1,0,0.4,0.5,0.4,0.9,0.417,32738,Jimmy Nelson,mil,R,Miller Park
+6190,Jimmy Nelson,Aaron Hill,sf,A,R,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32738,Jimmy Nelson,mil,R,Miller Park
+30901,Jimmy Nelson,Brandon Belt,sf,A,L,14,6,6,1,1,0,0,1,0,0,0,1,0,0,0,0.167,0.167,0.333,0.5,0.208,32738,Jimmy Nelson,mil,R,Miller Park
+28687,Jimmy Nelson,Hunter Pence,sf,A,R,24,7,6,2,0,0,0,0,0,1,0,1,0,0,0,0.333,0.429,0.333,0.762,0.357,32738,Jimmy Nelson,mil,R,Miller Park
+29180,Jimmy Nelson,Nick Hundley,sf,A,R,11,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32738,Jimmy Nelson,mil,R,Miller Park
+30469,Jimmy Nelson,Brandon Crawford,sf,A,L,28,9,8,1,0,0,1,2,1,1,0,2,0,0,0,0.125,0.222,0.5,0.722,0.3,32738,Jimmy Nelson,mil,R,Miller Park
+32087,Jimmy Nelson,Joe Panik,sf,A,L,28,10,8,5,0,0,0,4,1,1,0,1,0,1,0,0.625,0.667,0.625,1.292,0.578,32738,Jimmy Nelson,mil,R,Miller Park
+30290,Jimmy Nelson,Eduardo Nunez,sf,A,R,12,4,4,1,0,0,0,0,1,0,0,1,0,0,0,0.25,0.25,0.25,0.5,0.225,32738,Jimmy Nelson,mil,R,Miller Park
+30993,Dallas Keuchel,Eric Hosmer,kc,H,L,54,13,13,5,0,0,0,1,0,0,0,4,0,0,0,0.385,0.385,0.385,0.769,0.346,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+28636,Dallas Keuchel,Alex Gordon,kc,H,L,61,13,10,1,0,0,0,1,0,3,0,4,0,0,0,0.1,0.308,0.1,0.408,0.231,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+32422,Dallas Keuchel,Whit Merrifield,kc,H,R,12,4,3,2,0,0,0,0,0,1,0,0,0,0,0,0.667,0.75,0.667,1.417,0.625,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+29999,Dallas Keuchel,Mike Moustakas,kc,H,L,14,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+29436,Dallas Keuchel,Drew Butera,kc,H,R,25,8,8,2,0,0,0,0,0,0,0,3,0,0,0,0.25,0.25,0.25,0.5,0.225,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+31127,Dallas Keuchel,Salvador Perez,kc,H,R,55,18,18,2,0,0,0,2,0,0,0,6,0,0,0,0.111,0.111,0.111,0.222,0.1,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+29416,Dallas Keuchel,Lorenzo Cain,kc,H,R,76,19,17,5,2,0,1,1,2,2,0,1,0,0,0,0.294,0.368,0.588,0.957,0.405,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+29229,Dallas Keuchel,Alcides Escobar,kc,H,R,78,20,19,6,0,0,1,1,1,0,0,3,0,0,0,0.316,0.316,0.474,0.789,0.342,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+28844,Dallas Keuchel,Brandon Moss,kc,H,L,75,19,18,6,0,1,0,0,3,1,0,5,0,0,0,0.333,0.368,0.444,0.813,0.358,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+31682,Dallas Keuchel,Cheslor Cuthbert,kc,H,R,27,9,9,5,2,0,2,2,6,0,0,0,0,0,0,0.556,0.556,1.444,2,0.822,31815,Dallas Keuchel,hou,L,Kauffman Stadium
+34886,Jason Vargas,Alex Bregman,hou,A,R,16,3,3,1,0,0,0,0,0,0,0,1,0,0,0,0.333,0.333,0.333,0.667,0.3,6352,Jason Vargas,kc,L,Kauffman Stadium
+32653,Jason Vargas,Carlos Correa,hou,A,R,12,3,3,1,0,0,0,1,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,0.3,6352,Jason Vargas,kc,L,Kauffman Stadium
+31662,Jason Vargas,Jose Altuve,hou,A,R,38,12,12,5,0,0,1,2,3,0,0,2,0,1,1,0.417,0.417,0.667,1.083,0.467,6352,Jason Vargas,kc,L,Kauffman Stadium
+32078,Jason Vargas,George Springer,hou,A,R,20,3,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0.333,0,0.333,0.233,6352,Jason Vargas,kc,L,Kauffman Stadium
+30327,Jason Vargas,Marwin Gonzalez,hou,A,S,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6352,Jason Vargas,kc,L,Kauffman Stadium
+32863,Jason Vargas,Evan Gattis,hou,A,R,3,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1,0.45,6352,Jason Vargas,kc,L,Kauffman Stadium
+36006,Jason Vargas,Yuli Gurriel,hou,A,R,9,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6352,Jason Vargas,kc,L,Kauffman Stadium
+30195,Jason Vargas,Josh Reddick,hou,A,L,100,31,31,7,1,0,1,3,2,0,0,3,0,0,0,0.226,0.226,0.355,0.581,0.25,6352,Jason Vargas,kc,L,Kauffman Stadium
+6309,Jason Vargas,Brian McCann,hou,A,L,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6352,Jason Vargas,kc,L,Kauffman Stadium
+32053,Jason Vargas,Norichika Aoki,hou,A,L,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6352,Jason Vargas,kc,L,Kauffman Stadium
+3971,Jason Vargas,Carlos Beltran,hou,A,S,42,14,12,6,1,0,1,3,4,2,2,0,0,1,0,0.5,0.571,0.833,1.405,0.589,6352,Jason Vargas,kc,L,Kauffman Stadium
+28661,Luis Perdomo,Gregor Blanco,ari,H,L,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2,0.9,35970,Luis Perdomo,sd,R,Chase Field
+31027,Luis Perdomo,Paul Goldschmidt,ari,H,R,53,14,13,7,1,0,2,5,6,0,0,0,1,0,0,0.538,0.571,1.077,1.648,0.682,35970,Luis Perdomo,sd,R,Chase Field
+30475,Luis Perdomo,Daniel Descalso,ari,H,L,19,5,5,1,0,0,0,1,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.18,35970,Luis Perdomo,sd,R,Chase Field
+32269,Luis Perdomo,Brandon Drury,ari,H,R,51,13,12,3,0,0,0,0,1,1,0,2,0,0,0,0.25,0.308,0.25,0.558,0.262,35970,Luis Perdomo,sd,R,Chase Field
+31998,Luis Perdomo,Chris Herrmann,ari,H,L,13,4,4,1,0,0,1,1,2,0,0,0,0,0,0,0.25,0.25,1,1.25,0.5,35970,Luis Perdomo,sd,R,Chase Field
+30862,Luis Perdomo,Chris Owings,ari,H,R,27,11,11,1,0,0,0,2,0,0,0,1,0,0,0,0.091,0.091,0.091,0.182,0.082,35970,Luis Perdomo,sd,R,Chase Field
+32355,Luis Perdomo,Nick Ahmed,ari,H,R,11,6,5,1,0,0,0,0,0,0,0,1,1,0,0,0.2,0.333,0.2,0.533,0.267,35970,Luis Perdomo,sd,R,Chase Field
+33384,Luis Perdomo,David Peralta,ari,H,L,16,5,5,4,0,0,0,3,0,0,0,0,0,0,0,0.8,0.8,0.8,1.6,0.72,35970,Luis Perdomo,sd,R,Chase Field
+32742,Luis Perdomo,Jake Lamb,ari,H,L,57,14,12,4,1,1,1,3,4,2,0,3,0,0,0,0.333,0.429,0.833,1.262,0.511,35970,Luis Perdomo,sd,R,Chase Field
+31280,Luis Perdomo,Rey Fuentes,ari,H,L,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35970,Luis Perdomo,sd,R,Chase Field
+30909,Zack Greinke,Ryan Schimpf,sd,A,L,55,12,12,2,2,0,0,1,0,0,0,5,0,0,1,0.167,0.167,0.333,0.5,0.208,5883,Zack Greinke,ari,R,Chase Field
+36085,Zack Greinke,Allen Cordoba,sd,A,R,11,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5883,Zack Greinke,ari,R,Chase Field
+32168,Zack Greinke,Austin Hedges,sd,A,R,27,9,8,2,0,0,1,1,2,0,0,1,0,0,0,0.25,0.222,0.625,0.847,0.322,5883,Zack Greinke,ari,R,Chase Field
+30676,Zack Greinke,Chase d'Arnaud,sd,A,R,11,3,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0,0.333,0.233,5883,Zack Greinke,ari,R,Chase Field
+33205,Zack Greinke,Hunter Renfroe,sd,A,R,21,6,6,1,0,0,0,0,0,0,0,2,0,0,0,0.167,0.167,0.167,0.333,0.15,5883,Zack Greinke,ari,R,Chase Field
+31337,Zack Greinke,Matt Szczur,sd,A,R,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5883,Zack Greinke,ari,R,Chase Field
+6522,Zack Greinke,Erick Aybar,sd,A,S,128,40,35,12,5,0,1,4,3,2,0,5,1,2,1,0.343,0.385,0.571,0.956,0.404,5883,Zack Greinke,ari,R,Chase Field
+31265,Zack Greinke,Wil Myers,sd,A,R,128,32,29,4,1,0,1,2,2,3,0,8,0,0,0,0.138,0.219,0.276,0.495,0.223,5883,Zack Greinke,ari,R,Chase Field
+32169,Zack Greinke,Cory Spangenberg,sd,A,L,51,17,16,3,0,0,0,1,0,1,0,1,0,0,0,0.188,0.235,0.188,0.423,0.2,5883,Zack Greinke,ari,R,Chase Field
+30898,Zack Greinke,Yangervis Solarte,sd,A,S,83,25,24,6,2,0,0,1,1,1,0,3,0,0,0,0.25,0.28,0.333,0.613,0.272,5883,Zack Greinke,ari,R,Chase Field
+31944,Yovani Gallardo,Eddie Rosario,min,A,L,13,4,4,1,0,0,0,0,0,0,0,2,0,0,0,0.25,0.25,0.25,0.5,0.225,28650,Yovani Gallardo,sea,R,Safeco Field
+31260,Yovani Gallardo,Miguel Sano,min,A,R,21,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.75,0,0.75,0.525,28650,Yovani Gallardo,sea,R,Safeco Field
+31009,Yovani Gallardo,Brian Dozier,min,A,R,70,15,12,5,0,0,1,3,4,0,0,0,0,0,0,0.417,0.357,0.667,1.024,0.4,28650,Yovani Gallardo,sea,R,Safeco Field
+30272,Yovani Gallardo,Eduardo Escobar,min,A,S,22,6,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,28650,Yovani Gallardo,sea,R,Safeco Field
+32655,Yovani Gallardo,Byron Buxton,min,A,R,13,2,2,2,2,0,0,1,0,0,0,0,0,0,0,1,1,2,3,1.25,28650,Yovani Gallardo,sea,R,Safeco Field
+29361,Yovani Gallardo,Chris Gimenez,min,A,R,14,3,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0.333,0,0.333,0.233,28650,Yovani Gallardo,sea,R,Safeco Field
+30178,Yovani Gallardo,Jason Castro,min,A,L,96,25,21,8,2,0,1,3,1,4,0,6,0,0,0,0.381,0.48,0.619,1.099,0.472,28650,Yovani Gallardo,sea,R,Safeco Field
+5378,Yovani Gallardo,Joe Mauer,min,A,L,88,21,16,7,0,0,0,3,1,4,2,3,0,0,0,0.438,0.524,0.438,0.961,0.433,28650,Yovani Gallardo,sea,R,Safeco Field

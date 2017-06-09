@@ -1,0 +1,84 @@
+<div class="page-header">
+  <h3>Batter #<%= @batter.id %></h3>
+</div>
+
+<div class="row">
+  <div class="col-md-12 mb-2">
+    <dl class="dl-horizontal">
+      <dt>Bats</dt>
+      <dd><%= @batter.bats_id %></dd>
+
+      <dt>Team</dt>
+      <dd><%= @batter.team_id %></dd>
+
+      <dt>First name</dt>
+      <dd><%= @batter.first_name %></dd>
+
+      <dt>Last name</dt>
+      <dd><%= @batter.last_name %></dd>
+
+      <dt>Batter name</dt>
+      <dd><%= @batter.batter_name %></dd>
+
+    </dl>
+
+    <div class="row">
+      <div class="col-md-12">
+        <table class="table table-striped table-hover">
+          <tr>
+            <th>Pitcher</th>
+            <th>Team</th>
+            <th>Np</th>
+            <th>Pa</th>
+            <th>Ab</th>
+            <th>Hits</th>
+            <th>Double</th>
+            <th>Triple</th>
+            <th>Hr</th>
+            <th>Avg</th>
+            <th>Obp</th>
+            <th>Slg</th>
+            <th>Ops</th>
+            <th>Woba</th>
+          
+          </tr>
+
+          <% @pitcher_batters.each do |pitcher_batter| %>
+          <tr>
+            <td><%= pitcher_batter.pitcher_name %></td>
+              <td><%= pitcher_batter.team_code %></td>
+            <td><%= pitcher_batter.np %></td>
+            <td><%= pitcher_batter.pa %></td>
+            <td><%= pitcher_batter.ab %></td>
+            <td><%= pitcher_batter.hits %></td>
+            <td><%= pitcher_batter.double %></td>
+            <td><%= pitcher_batter.triple %></td>
+            <td><%= pitcher_batter.hr %></td>
+            <td><%= pitcher_batter.avg %></td>
+            <td><%= pitcher_batter.obp %></td>
+            <td><%= pitcher_batter.slg %></td>
+            <td><%= pitcher_batter.ops %></td>
+            <td><%= pitcher_batter.woba %></td>
+
+          </tr>
+          <% end %>
+        </table>
+
+
+
+
+
+
+        <div class="btn-group btn-group-justified">
+          <a href="/batters" class="btn btn-primary">
+            Back
+          </a>
+          <a href="/batters/<%= @batter.id %>/edit" class="btn btn-warning">
+            Edit
+          </a>
+          <a href="/delete_batter/<%= @batter.id %>" class="btn btn-danger" rel="nofollow">
+            Delete
+          </a>
+        </div>
+      </div>
+    </div>

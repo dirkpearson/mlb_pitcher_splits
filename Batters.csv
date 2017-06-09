@@ -1,0 +1,994 @@
+PLAYERNAME,FIRSTNAME,LASTNAME,TEAM,POS,ESPNID,ESPNNAME,BATS,IDPLAYER
+Nick Ahmed,Nick,Ahmed,ARI,SS,32355,Nick Ahmed,R,ahmedni01
+Socrates Brito,Socrates,Brito,ARI,OF,32485,Socrates Brito,L,britoso01
+Hank Conger,Hank,Conger,ARI,C,29316,Hank Conger,B,congeha01
+Daniel Descalso,Daniel,Descalso,ARI,SS,30475,Daniel Descalso,L,descada01
+Brandon Drury,Brandon,Drury,ARI,3B,32269,Brandon Drury,R,drurybr01
+Reymond Fuentes,Reymond,Fuentes,ARI,OF,31280,Reymond Fuentes,L,fuentra01
+Paul Goldschmidt,Paul,Goldschmidt,ARI,1B,31027,Paul Goldschmidt,R,goldspa01
+Jeremy Hazelbaker,Jeremy,Hazelbaker,ARI,OF,30654,Jeremy Hazelbaker,L,hazelje01
+Chris Herrmann,Chris,Herrmann,ARI,C,31998,Chris Herrmann,L,herrmch01
+Chris Iannetta,Chris,Iannetta,ARI,C,28561,Chris Iannetta,R,iannech01
+Jacob Lamb,Jacob,Lamb,ARI,3B,32742,Jake Lamb,L,lambja01
+Ketel Marte,Ketel,Marte,ARI,SS,32512,Ketel Marte,B,marteke01
+Jeff Mathis,Jeff,Mathis,ARI,C,5921,Jeff Mathis,R,mathije01
+Kristopher Negron,Kristopher,Negron,ARI,OF,29307,Kris Negron,R,negrokr01
+Chris Owings,Chris,Owings,ARI,SS,30862,Chris Owings,R,owingch01
+David Peralta,David,Peralta,ARI,OF,33384,David Peralta,L,peralda01
+A.J. Pollock,A.J.,Pollock,ARI,OF,30699,A.J. Pollock,R,polloaj01
+Yasmany Tomas,Yasmany,Tomas,ARI,OF,33662,Yasmany Tomas,R,tomasya01
+Christian Walker,Christian,Walker,ARI,1B,32758,Christian Walker,R,walkech02
+Ronald Acuna,Ronald,Acuna,ATL,OF,,,R,acunaro01
+Ozzie Albies,Ozzie,Albies,ATL,SS,33783,Ozzie Albies,B,albieoz01
+Emilio Bonifacio,Emilio,Bonifacio,ATL,OF,28877,Emilio Bonifacio,B,bonifem01
+Chase d'Arnaud,Chase,d'Arnaud,ATL,SS,30676,Chase d'Arnaud,R,darnach01
+Tyler Flowers,Tyler,Flowers,ATL,C,30157,Tyler Flowers,R,flowety01
+Freddie Freeman,Freddie,Freeman,ATL,1B,30193,Freddie Freeman,L,freemfr01
+Adonis Garcia,Adonis,Garcia,ATL,3B,33080,Adonis Garcia,R,garciad01
+Tyler Greene,Tyler,Greene,ATL,2B,,,R,greenty02
+Ender Inciarte,Ender,Inciarte,ATL,OF,31327,Ender Inciarte,L,inciaen01
+Alex Jackson,Alex,Jackson,ATL,OF,33707,Alex Jackson,R,jacksal01
+Micah Johnson,Micah,Johnson,ATL,2B,33149,Micah Johnson,L,johnsmi04
+Matt Kemp,Matt,Kemp,ATL,OF,28476,Matt Kemp,R,kempma01
+Kyle Kubitza,Kyle,Kubitza,ATL,3B,32865,Kyle Kubitza,L,kubitky01
+Blake Lalli,Blake,Lalli,ATL,1B,,,L,lallibl01
+Nick Markakis,Nick,Markakis,ATL,OF,6478,Nick Markakis,L,markani01
+Ronnier Mustelier,Ronnier,Mustelier,ATL,3B,,,R,mustero01
+Jace Peterson,Jace,Peterson,ATL,2B,32323,Jace Peterson,L,peterja01
+Brandon Phillips,Brandon,Phillips,ATL,2B,5031,Brandon Phillips,R,phillbr01
+Anthony Recker,Anthony,Recker,ATL,C,29490,Anthony Recker,R,reckean01
+Sean Rodriguez,Sean,Rodriguez,ATL,SS,29105,Sean Rodriguez,R,rodrise01
+Rio Ruiz,Rio,Ruiz,ATL,3B,,,L,ruizri01
+Kurt Suzuki,Kurt,Suzuki,ATL,C,28802,Kurt Suzuki,R,suzukku01
+Dansby Swanson,Dansby,Swanson,ATL,SS,34895,Dansby Swanson,R,swansda01
+Colin Walsh,Colin,Walsh,ATL,3B,34296,,B,walshco02
+Pedro Alvarez,Pedro,Alvarez,BAL,DH,29962,Pedro Alvarez,L,alvarpe01
+Robert Andino,Robert,Andino,BAL,2B,6414,Robert Andino,R,andinro01
+Julio Borbon,Julio,Borbon,BAL,OF,30014,Julio Borbon,L,borboju01
+Welington Castillo,Welington,Castillo,BAL,C,29564,Welington Castillo,R,castiwe01
+Chris Davis,Chris,Davis,BAL,1B,29170,Chris Davis,L,davisch02
+Ryan Flaherty,Ryan,Flaherty,BAL,3B,30728,Ryan Flaherty,L,flahery01
+Johnny Giavotella,Johnny,Giavotella,BAL,2B,31128,Johnny Giavotella,R,giavojo01
+J.J. Hardy,J.J.,Hardy,BAL,SS,5908,J.J. Hardy,R,hardyjj01
+L.J. Hoes,L.J.,Hoes,BAL,OF,32090,L.J. Hoes,R,hoeslj01
+Adam Jones,Adam,Jones,BAL,OF,28513,Adam Jones,R,jonesad01
+Caleb Joseph,Caleb,Joseph,BAL,C,30464,Caleb Joseph,R,josepca01
+Hyun-soo Kim,Hyun-soo,Kim,BAL,OF,34885,Hyun Soo Kim,L,kimhy01
+Manny Machado,Manny,Machado,BAL,SS,31097,Manny Machado,R,machama01
+Trey Mancini,Trey,Mancini,BAL,DH,,,R,mancitr01
+Joey Rickard,Joey,Rickard,BAL,OF,32952,Joey Rickard,R,rickajo01
+Logan Schafer,Logan,Schafer,BAL,OF,30247,Logan Schafer,L,schaflo01
+Jonathan Schoop,Jonathan,Schoop,BAL,2B,31988,Jonathan Schoop,R,schoojo01
+Chance Sisco,Chance,Sisco,BAL,C,,,L,siscoch01
+Seth Smith,Seth,Smith,BAL,OF,28920,Seth Smith,L,smithse01
+Mark Trumbo,Mark,Trumbo,BAL,OF,29322,Mark Trumbo,R,trumbma01
+Henry Urrutia,Henry,Urrutia,BAL,OF,33090,Henry Urrutia,L,urruthe01
+Andrew Benintendi,Andrew,Benintendi,BOS,OF,34986,Andrew Benintendi,L,beninan01
+Mookie Betts,Mookie,Betts,BOS,OF,33039,Mookie Betts,R,bettsmo01
+Xander Bogaerts,Xander,Bogaerts,BOS,SS,31606,Xander Bogaerts,R,bogaexa01
+Jackie Bradley Jr.,Jackie,Bradley Jr.,BOS,OF,32362,Jackie Bradley Jr.,L,bradlja02
+Rusney Castillo,Rusney,Castillo,BOS,OF,33630,Rusney Castillo,R,castiru02
+Allen Craig,Allen,Craig,BOS,OF,30399,Allen Craig,R,craigal01
+Rafael Devers,Rafael,Devers,BOS,3B,33859,Rafael Devers,L,deverra01
+Matt Dominguez,Matt,Dominguez,BOS,3B,29963,Matt Dominguez,R,dominma01
+Brock Holt,Brock,Holt,BOS,OF,30841,Brock Holt,L,holtbr01
+Junior Lake,Junior,Lake,BOS,OF,30718,Junior Lake,R,lakeju01
+Sandy Leon,Sandy,Leon,BOS,C,32101,Sandy Leon,B,leonsa01
+Mitch Moreland,Mitch,Moreland,BOS,1B,30452,Mitch Moreland,L,morelmi01
+Dustin Pedroia,Dustin,Pedroia,BOS,2B,6393,Dustin Pedroia,R,pedrodu01
+Hanley Ramirez,Hanley,Ramirez,BOS,1B,6195,Hanley Ramirez,R,ramirha01
+Josh Rutledge,Josh,Rutledge,BOS,3B,32144,Josh Rutledge,R,rutlejo01
+Pablo Sandoval,Pablo,Sandoval,BOS,3B,29212,Pablo Sandoval,B,sandopa01
+Blake Swihart,Blake,Swihart,BOS,OF,32123,Blake Swihart,B,swihabl01
+Sam Travis,Sam,Travis,BOS,1B,,,R,travisa01
+Christian Vazquez,Christian,Vazquez,BOS,C,31389,Christian Vazquez,R,vazquch01
+Chris Young (H),Chris,Young (H),BOS,OF,6514,Chris Young,R,youngch04
+Albert Almora,Albert,Almora,CHC,OF,32686,Albert Almora,R,almoral01
+Javier Baez,Javier,Baez,CHC,SS,32127,Javier Baez,R,baezja01
+Kris Bryant,Kris,Bryant,CHC,3B,33172,Kris Bryant,R,bryankr01
+Willson Contreras,Willson,Contreras,CHC,C,32532,Willson Contreras,R,contrwi01
+Ian Happ,Ian,Happ,CHC,OF,34945,Ian Happ,B,happia01
+Jason Heyward,Jason,Heyward,CHC,OF,29551,Jason Heyward,L,heywaja01
+Jon Jay,Jon,Jay,CHC,OF,29691,Jon Jay,L,jayjo02
+Eloy Jimenez,Eloy,Jimenez,CHC,OF,,,R,jimenel02
+Tommy La Stella,Tommy,La Stella,CHC,3B,32217,Tommy La Stella,L,lasteto01
+Miguel Montero,Miguel,Montero,CHC,C,28586,Miguel Montero,L,montemi01
+Anthony Rizzo,Anthony,Rizzo,CHC,1B,30782,Anthony Rizzo,L,rizzoan01
+Addison Russell,Addison,Russell,CHC,SS,32656,Addison Russell,R,russead02
+Kyle Schwarber,Kyle,Schwarber,CHC,OF,33712,Kyle Schwarber,L,schwaky01
+Ali Solis,Ali,Solis,CHC,C,32114,Ali Solis,R,solisal01
+Matt Szczur,Matt,Szczur,CHC,OF,31337,Matt Szczur,R,szczuma01
+Jemile Weeks,Jemile,Weeks,CHC,2B,30035,Jemile Weeks,B,weeksje01
+Ben Zobrist,Ben,Zobrist,CHC,2B,28536,Ben Zobrist,B,zobribe01
+Jose Abreu,Jose,Abreu,CHW,1B,33095,Jose Abreu,R,abreujo02
+Tim Anderson,Tim,Anderson,CHW,SS,33184,Tim Anderson,R,anderti01
+Melky Cabrera,Melky,Cabrera,CHW,OF,6347,Melky Cabrera,B,cabreme01
+Zack Collins,Zack,Collins,CHW,C,,,L,colliza01
+Matt Davidson,Matt,Davidson,CHW,DH,31145,Matt Davidson,R,davidma02
+Todd Frazier,Todd,Frazier,CHW,3B,30004,Todd Frazier,R,frazito01
+Avisail Garcia,Avisail,Garcia,CHW,OF,30729,Avisail Garcia,R,garciav01
+Leury Garcia,Leury,Garcia,CHW,OF,,,B,garcile02
+Rymer Liriano,Rymer,Liriano,CHW,OF,31278,Rymer Liriano,R,liriary01
+Yoan Moncada,Yoan,Moncada,CHW,3B,33984,Yoan Moncada,B,moncayo01
+Omar Narvaez,Omar,Narvaez,CHW,C,34254,Omar Narvaez,L,narvaom01
+Mike Olt,Mike,Olt,CHW,3B,31218,Mike Olt,R,oltmi01
+Tyler Saladino,Tyler,Saladino,CHW,SS,31190,Tyler Saladino,R,saladty01
+Yolmer Sanchez,Yolmer,Sanchez,CHW,2B,32264,Yolmer Sanchez,B,sanchca01
+Jerry Sands,Jerry,Sands,CHW,DH,30867,Jerry Sands,R,sandsje01
+Geovany Soto,Geovany,Soto,CHW,C,6428,Geovany Soto,R,sotoge01
+Charlie Tilson,Charlie,Tilson,CHW,OF,,,L,tilsoch01
+Arismendy Alcantara,Arismendy,Alcantara,CIN,OF,32823,Arismendy Alcantara,B,alcanar01
+Tucker Barnhart,Tucker,Barnhart,CIN,C,31173,Tucker Barnhart,B,barnhtu01
+Rob Brantly,Rob,Brantly,CIN,C,31133,Rob Brantly,L,brantro01
+Zack Cozart,Zack,Cozart,CIN,SS,30466,Zack Cozart,R,cozarza01
+Adam Duvall,Adam,Duvall,CIN,OF,32664,Adam Duvall,R,duvalad01
+Scooter Gennett,Scooter,Gennett,CIN,2B,31175,Scooter Gennett,L,gennesc01
+Billy Hamilton,Billy,Hamilton,CIN,OF,31042,Billy Hamilton,B,hamilbi02
+Dilson Herrera,Dilson,Herrera,CIN,2B,,,R,herredi01
+Desmond Jennings,Desmond,Jennings,CIN,OF,30493,Desmond Jennings,R,jennide01
+Devin Mesoraco,Devin,Mesoraco,CIN,C,29950,Devin Mesoraco,R,mesorde01
+Jose Peraza,Jose,Peraza,CIN,SS,32470,Jose Peraza,R,perazjo01
+Scott Schebler,Scott,Schebler,CIN,OF,33353,Scott Schebler,L,schebsc01
+Nick Senzel,Nick,Senzel,CIN,3B,,,R,senzeni01
+Eugenio Suarez,Eugenio,Suarez,CIN,3B,32367,Eugenio Suarez,R,suareeu01
+Joey Votto,Joey,Votto,CIN,1B,28670,Joey Votto,L,vottojo01
+Jesse Winker,Jesse,Winker,CIN,OF,32833,Jesse Winker,L,winkeje01
+Greg Allen,Greg,Allen,CLE,OF,,,B,allengr01
+Abraham Almonte,Abraham,Almonte,CLE,OF,31474,Abraham Amonte,B,almonab01
+Bobby Bradley,Bobby,Bradley,CLE,1B,,,L,bradlbo01
+Michael Brantley,Michael,Brantley,CLE,OF,30043,Michael Brantley,L,brantmi02
+Lonnie Chisenhall,Lonnie,Chisenhall,CLE,OF,30523,Lonnie Chisenhall,L,chiselo01
+Chris Colabello,Chris,Colabello,CLE,1B,32678,Chris Colabello,R,colabch01
+Yandy Diaz,Yandy,Diaz,CLE,3B,,,R,diazya01
+Edwin Encarnacion,Edwin,Encarnacion,CLE,1B,5904,Edwin Encarnacion,R,encared01
+Yan Gomes,Yan,Gomes,CLE,C,32108,Yan Gomes,R,gomesya01
+Brandon Guyer,Brandon,Guyer,CLE,OF,30708,Brandon Guyer,R,guyerbr01
+Austin Jackson,Austin,Jackson,CLE,OF,29453,Austin Jackson,R,jacksau01
+Jason Kipnis,Jason,Kipnis,CLE,2B,31007,Jason Kipnis,L,kipnija01
+Francisco Lindor,Francisco,Lindor,CLE,SS,32129,Francisco Lindor,B,lindofr01
+Michael Martinez,Michael,Martinez,CLE,2B,30986,Michael Martinez,B,martimi02
+Francisco Mejia,Francisco,Mejia,CLE,C,,,B,mejiafr01
+Tyler Naquin,Tyler,Naquin,CLE,OF,32788,Tyler Naquin,L,naquity01
+Dorssys Paulino,Dorssys,Paulino,CLE,SS,32692,Dorssys Paulino,R,paulido01
+Roberto Perez,Roberto,Perez,CLE,C,32265,Roberto Perez,R,perezro02
+Jose Ramirez,Jose,Ramirez,CLE,3B,32801,Jose Ramirez,B,ramirjo01
+Carlos Santana,Carlos,Santana,CLE,1B,30280,Carlos Santana,B,santaca01
+Richie Shaffer,Richie,Shaffer,CLE,1B,32838,Richie Shaffer,R,shaffri01
+Giovanny Urshela,Giovanny,Urshela,CLE,3B,32721,Giovanny Urshela,R,urshegi01
+Bradley Zimmer,Bradley,Zimmer,CLE,OF,33713,Bradley Zimmer,L,zimmebr01
+Cristhian Adames,Cristhian,Adames,COL,SS,31659,Cristhian Adames,B,adamecr01
+Alexi Amarista,Alexi,Amarista,COL,2B,30562,Alexi Amarista,L,amarial01
+Nolan Arenado,Nolan,Arenado,COL,3B,31261,Nolan Arenado,R,arenano01
+Charlie Blackmon,Charlie,Blackmon,COL,OF,31084,Charlie Blackmon,L,blackch02
+Stephen Cardullo,Stephen,Cardullo,COL,OF,,,R,cardust01
+David Dahl,David,Dahl,COL,OF,32698,David Dahl,L,dahlda01
+Ian Desmond,Ian,Desmond,COL,OF,29646,Ian Desmond,R,desmoia01
+Dustin Garneau,Dustin,Garneau,COL,C,33257,Dustin Garneau,R,garnedu01
+Carlos Gonzalez,Carlos,Gonzalez,COL,OF,28658,Carlos Gonzalez,L,gonzaca01
+DJ LeMahieu,DJ,LeMahieu,COL,2B,30765,DJ LeMahieu,R,lemahdj01
+Ryan McMahon,Ryan,McMahon,COL,3B,33247,Ryan McMahon,L,mcmahry01
+Tom Murphy,Tom,Murphy,COL,C,,,R,murphto04
+Gerardo Parra,Gerardo,Parra,COL,OF,29807,Gerardo Parra,L,parrage01
+Mark Reynolds,Mark,Reynolds,COL,1B,28772,Mark Reynolds,R,reynoma01
+Trevor Story,Trevor,Story,COL,SS,,,R,storytr01
+Raimel Tapia,Raimel,Tapia,COL,OF,,,L,tapiara01
+Forrest Wall,Forrest,Wall,COL,2B,33726,Forrest Wall,L,wallfo01
+Tony Wolters,Tony,Wolters,COL,C,31844,Tony Wolters,L,wolteto01
+Alex Avila,Alex,Avila,DET,C,30115,Alex Avila,L,avilaal01
+Miguel Cabrera,Miguel,Cabrera,DET,1B,5544,Miguel Cabrera,R,cabremi01
+Nick Castellanos,Nick,Castellanos,DET,3B,31187,Nick Castellanos,R,casteni01
+Tyler Collins,Tyler,Collins,DET,OF,32136,Tyler Collins,L,collity01
+Anthony Gose,Anthony,Gose,DET,OF,31048,Anthony Gose,L,gosean01
+Jose Iglesias,Jose,Iglesias,DET,SS,30382,Jose Iglesias,R,iglesjo01
+Omar Infante,Omar,Infante,DET,2B,5339,Omar Infante,R,infanom01
+JaCoby Jones,JaCoby,Jones,DET,3B,34906,JaCoby Jones,R,jonesja07
+Ian Kinsler,Ian,Kinsler,DET,2B,6197,Ian Kinsler,R,kinslia01
+David Lough,David,Lough,DET,OF,30528,David Lough,L,loughda01
+Dixon Machado,Dixon,Machado,DET,SS,,,R,machadi01
+Mikie Mahtook,Mikie,Mahtook,DET,OF,32141,Mikie Mahtook,R,mahtomi01
+J.D. Martinez,J.D.,Martinez,DET,OF,31065,J.D. Martinez,R,martijd02
+Victor Martinez,Victor,Martinez,DET,DH,5007,Victor Martinez,B,martivi01
+James McCann,James,McCann,DET,C,32046,James McCann,R,mccanja01
+Steven Moya,Steven,Moya,DET,OF,32257,Steven Moya,L,moyast01
+Efren Navarro,Efren,Navarro,DET,OF,30337,Efren Navarro,L,navaref01
+Brett Pill,Brett,Pill,DET,1B,30389,Brett Pill,R,pillbr01
+Alex Presley,Alex,Presley,DET,OF,29683,Alex Presley,L,preslal01
+Andrew Romine,Andrew,Romine,DET,3B,29330,Andrew Romine,B,rominan01
+Brendan Ryan,Brendan,Ryan,DET,SS,28789,Brendan Ryan,R,ryanbr01
+Justin Upton,Justin,Upton,DET,OF,28841,Justin Upton,R,uptonju01
+Jose Altuve,Jose,Altuve,HOU,2B,31662,Jose Altuve,R,altuvjo01
+Norichika Aoki,Norichika,Aoki,HOU,OF,32053,Nori Aoki,L,aokino01
+Carlos Beltran,Carlos,Beltran,HOU,OF,3971,Carlos Beltran,B,beltrca01
+Alex Bregman,Alex,Bregman,HOU,3B,34886,Alex Bregman,R,bregmal01
+Reid Brignac,Reid,Brignac,HOU,3B,28707,Reid Brignac,L,brignre01
+Carlos Correa,Carlos,Correa,HOU,SS,32653,Carlos Correa,R,correca01
+Derek Fisher,Derek,Fisher,HOU,of,33794,Derek Fisher,L,fishede01
+Evan Gattis,Evan,Gattis,HOU,C,32863,Evan Gattis,R,gattiev01
+Marwin Gonzalez,Marwin,Gonzalez,HOU,3B,30327,Marwin Gonzalez,B,gonzama01
+Yulieski Gurriel,Yulieski,Gurriel,HOU,3B,36006,Yulieski Gurriel,R,gourryu01
+Jake Marisnick,Jake,Marisnick,HOU,OF,31195,Jake Marisnick,R,marisja01
+Brian McCann,Brian,McCann,HOU,C,6309,Brian McCann,L,mccanbr01
+Colin Moran,Colin,Moran,HOU,3B,,,L,moranco01
+Josh Reddick,Josh,Reddick,HOU,OF,30195,Josh Reddick,L,reddijo01
+A.J. Reed,A.J.,Reed,HOU,1B,33674,A.J. Reed,L,reedaj01
+Jonathan Singleton,Jonathan,Singleton,HOU,1B,31206,Jon Singleton,L,singljo02
+George Springer,George,Springer,HOU,OF,32078,George Springer,R,springe01
+Max Stassi,Max,Stassi,HOU,C,30429,Max Stassi,R,stassma01
+Kyle Tucker,Kyle,Tucker,HOU,OF,,,L,tuckeky01
+Preston Tucker,Preston,Tucker,HOU,OF,33066,Preston Tucker,L,tuckepr01
+Tyler White,Tyler,White,HOU,1B,34968,Tyler White,R,whitety01
+Jorge Bonifacio,Jorge,Bonifacio,KC,OF,,,R,bonifjo01
+Billy Burns,Billy,Burns,KC,OF,32860,Billy Burns,B,burnsbi02
+Drew Butera,Drew,Butera,KC,C,29436,Drew Butera,R,buterdr01
+Lorenzo Cain,Lorenzo,Cain,KC,OF,29416,Lorenzo Cain,R,cainlo01
+Garin Cecchini,Garin,Cecchini,KC,3B,32124,Garin Cecchini,L,cecchga01
+Christian Colon,Christian,Colon,KC,2B,31116,Christian Colon,R,colonch01
+Cheslor Cuthbert,Cheslor,Cuthbert,KC,3B,31682,Cheslor Cuthbert,R,cuthbch01
+Hunter Dozier,Hunter,Dozier,KC,OF,,,R,doziehu01
+Alcides Escobar,Alcides,Escobar,KC,SS,29229,Alcides Escobar,R,escobal02
+Alex Gordon,Alex,Gordon,KC,OF,28636,Alex Gordon,L,gordoal01
+Terrance Gore,Terrance,Gore,KC,DH,33632,Terrance Gore,R,gorete01
+Eric Hosmer,Eric,Hosmer,KC,1B,30993,Eric Hosmer,L,hosmeer01
+Whit Merrifield,Whit,Merrifield,KC,2B,32422,Whit Merrifield,R,merriwh01
+Raul Mondesi,Raul,Mondesi,KC,2B,32821,Raul Mondesi,B,mondera02
+Brandon Moss,Brandon,Moss,KC,OF,28844,Brandon Moss,L,mossbr01
+Mike Moustakas,Mike,Moustakas,KC,3B,29999,Mike Moustakas,L,moustmi01
+Peter O'Brien,Peter,O'Brien,KC,OF,33179,Peter O'Brien,R,obriepe01
+Paulo Orlando,Paulo,Orlando,KC,OF,29357,Paulo Orlando,R,orlanpa01
+Brayan Pena,Brayan,Pena,KC,C,6285,Brayan Pena,B,penabr01
+Salvador Perez,Salvador,Perez,KC,C,31127,Salvador Perez,R,perezsa02
+Jorge Soler,Jorge,Soler,KC,OF,32558,Jorge Soler,R,solerjo01
+Bubba Starling,Bubba,Starling,KC,OF,32152,Bubba Starling,R,starlbu01
+Dustin Ackley,Dustin,Ackley,LAA,1B,30372,Dustin Ackley,L,ackledu01
+Kole Calhoun,Kole,Calhoun,LAA,OF,31413,Kole Calhoun,L,calhoko01
+Ji-Man Choi,Ji-Man,Choi,LAA,OF,31779,Ji-Man Choi,L,choiji01
+Kaleb Cowart,Kaleb,Cowart,LAA,3B,31648,Kaleb Cowart,B,cowarka01
+C.J. Cron,C.J.,Cron,LAA,1B,32155,C.J. Cron,R,croncj01
+Yunel Escobar,Yunel,Escobar,LAA,3B,28662,Yunel Escobar,R,escobyu01
+Danny Espinosa,Danny,Espinosa,LAA,SS,30621,Danny Espinosa,B,espinda01
+Jahmai Jones,Jahmai,Jones,LAA,OF,,,R,jonesja01
+Martin Maldonado,Martin,Maldonado,LAA,C,30289,Martin Maldonado,R,maldoma01
+Lou Marson,Lou,Marson,LAA,C,29241,Lou Marson,R,marsolo01
+Jefry Marte,Jefry,Marte,LAA,3B,31901,Jefry Marte,R,marteje01
+Cameron Maybin,Cameron,Maybin,LAA,OF,6455,Cameron Maybin,R,maybica01
+Cliff Pennington,Cliff,Pennington,LAA,2B,29210,Cliff Pennington,B,pennicl01
+Carlos Perez,Carlos,Perez,LAA,C,30237,Carlos Perez,R,perezca02
+Albert Pujols,Albert,Pujols,LAA,1B,4574,Albert Pujols,R,pujolal01
+Shane Robinson,Shane,Robinson,LAA,OF,30358,Shane Robinson,R,robinsh01
+Andrelton Simmons,Andrelton,Simmons,LAA,SS,31728,Andrelton Simmons,R,simmoan01
+Mike Trout,Mike,Trout,LAA,OF,30836,Mike Trout,R,troutmi01
+Luis Valbuena,Luis,Valbuena,LAA,3B,29246,Luis Valbuena,L,valbulu01
+Austin Barnes,Austin,Barnes,LAD,C,,,R,barneau01
+Cody Bellinger,Cody,Bellinger,LAD,1B,33912,Cody Bellinger,L,bellico01
+Charlie Culberson,Charlie,Culberson,LAD,SS,29955,Charlie Culberson,R,culbech01
+Yusniel Diaz,Yusniel,Diaz,LAD,OF,,,R,diazyu01
+Brett Eibner,Brett,Eibner,LAD,OF,31276,Brett Eibner,R,eibnebr01
+Andre Ethier,Andre,Ethier,LAD,OF,6481,Andre Ethier,L,ethiean01
+Jose Miguel Fernandez,Jose Miguel,Fernandez,LAD,2B,,,,fernajo03
+Logan Forsythe,Logan,Forsythe,LAD,2B,30579,Logan Forsythe,R,forsylo01
+Adrian Gonzalez,Adrian,Gonzalez,LAD,1B,5405,Adrian Gonzalez,L,gonzaad01
+Yasmani Grandal,Yasmani,Grandal,LAD,C,30950,Yasmani Grandal,B,grandya01
+Franklin Gutierrez,Franklin,Gutierrez,LAD,OF,6408,Franklin Gutierrez,R,gutiefr01
+Enrique Hernandez,Enrique,Hernandez,LAD,OF,31358,Enrique Hernandez,R,hernaen02
+Joc Pederson,Joc,Pederson,LAD,OF,31392,Joc Pederson,L,pederjo01
+Yasiel Puig,Yasiel,Puig,LAD,OF,32574,Yasiel Puig,R,puigya01
+Corey Seager,Corey,Seager,LAD,SS,32691,Corey Seager,L,seageco01
+Darnell Sweeney,Darnell,Sweeney,LAD,OF,32908,Darnell Sweeney,B,sweenda02
+Chris Taylor,Chris,Taylor,LAD,3B,32900,Chris Taylor,R,tayloch03
+Trayce Thompson,Trayce,Thompson,LAD,OF,30743,Trayce Thompson,R,thomptr01
+Andrew Toles,Andrew,Toles,LAD,OF,33222,Andrew Toles,L,tolesan01
+Justin Turner,Justin,Turner,LAD,3B,29607,Justin Turner,R,turneju01
+Chase Utley,Chase,Utley,LAD,2B,5383,Chase Utley,L,utleych01
+Scott Van Slyke,Scott,Van Slyke,LAD,OF,30714,Scott Van Slyke,R,vanslsc01
+Alex Verdugo,Alex,Verdugo,LAD,OF,,,L,verdual01
+Brandon Barnes,Brandon,Barnes,MIA,OF,30732,Brandon Barnes,R,barnebr02
+Justin Bour,Justin,Bour,MIA,1B,31453,Justin Bour,L,bourju01
+Matt den Dekker,Matt,den Dekker,MIA,OF,31193,Matt den Dekker,L,dendema01
+Derek Dietrich,Derek,Dietrich,MIA,2B,31784,Derek Dietrich,L,dietrde01
+A.J. Ellis,A.J.,Ellis,MIA,C,29258,A.J. Ellis,R,ellisaj01
+Jeff Francoeur,Jeff,Francoeur,MIA,OF,6345,Jeff Francoeur,R,francje02
+Dee Gordon,Dee,Gordon,MIA,2B,30726,Dee Gordon,L,gordode01
+Adeiny Hechavarria,Adeiny,Hechavarria,MIA,SS,31049,Adeiny Hechavarria,R,hechaad01
+Jae-gyun Hwang,Jae-gyun,Hwang,MIA,3B,,,,hwangja01
+Tyler Moore,Tyler,Moore,MIA,OF,30635,Tyler Moore,R,moorety01
+Marcell Ozuna,Marcell,Ozuna,MIA,OF,31668,Marcell Ozuna,R,ozunama01
+Martin Prado,Martin,Prado,MIA,3B,6513,Martin Prado,R,pradoma01
+J.T. Realmuto,J.T.,Realmuto,MIA,C,32177,J.T. Realmuto,R,realmjt01
+Miguel Rojas,Miguel,Rojas,MIA,SS,30791,Miguel Rojas,R,rojasmi02
+Giancarlo Stanton,Giancarlo,Stanton,MIA,OF,30583,Giancarlo Stanton,R,stantmi03
+Ichiro Suzuki,Ichiro,Suzuki,MIA,OF,4570,Ichiro Suzuki,L,suzukic01
+Tomas Telis,Tomas,Telis,MIA,C,,,B,telisto01
+Christian Yelich,Christian,Yelich,MIA,OF,31283,Christian Yelich,L,yelicch01
+Jesus Aguilar,Jesus,Aguilar,MIL,1B,32132,Jesus Aguilar,R,aguilje01
+Orlando Arcia,Orlando,Arcia,MIL,SS,32530,Orlando Arcia,R,arciaor01
+Jett Bandy,Jett,Bandy,MIL,C,32056,Jett Bandy,R,bandyje01
+Ryan Braun,Ryan,Braun,MIL,OF,28721,Ryan Braun,R,braunry02
+Lewis Brinson,Lewis,Brinson,MIL,OF,32819,Lewis Brinson,R,brinsle01
+Keon Broxton,Keon,Broxton,MIL,OF,30755,Keon Broxton,R,broxtke01
+Trent Clark,Trent,Clark,MIL,OF,,,L,clarktr01
+Ivan De Jesus,Ivan,De Jesus,MIL,SS,30020,Ivan De Jesus,R,dejesiv02
+Isan Diaz,Isan,Diaz,MIL,2B,,,L,diazis01
+Ramon Flores,Ramon,Flores,MIL,OF,31617,Ramon Flores,L,florera01
+Kirk Nieuwenhuis,Kirk,Nieuwenhuis,MIL,OF,30218,Kirk Nieuwenhuis,L,nieuwki01
+Jacob Nottingham,Jacob,Nottingham,MIL,C,34931,Jacob Nottingham,R,nottija01
+Hernan Perez,Hernan,Perez,MIL,3B,30878,Hernan Perez,R,perezhe01
+Brett Phillips,Brett,Phillips,MIL,OF,33822,Brett Phillips,L,phillbr02
+Manny Pina,Manny,Pina,MIL,C,30268,Manuel Pina,R,pinama01
+Corey Ray,Corey,Ray,MIL,OF,,,L,rayco01
+Michael Reed,Michael,Reed,MIL,OF,32260,Michael Reed,R,reedmi01
+Domingo Santana,Domingo,Santana,MIL,OF,31931,Domingo Santana,R,santado01
+Travis Shaw,Travis,Shaw,MIL,3B,32890,Travis Shaw,L,shawtr01
+Eric Sogard,Eric,Sogard,MIL,2B,29732,Eric Sogard,L,sogarer01
+Andrew Susac,Andrew,Susac,MIL,C,32062,Andrew Susac,R,susacan01
+Eric Thames,Eric,Thames,MIL,OF,30709,Eric Thames,L,thameer01
+Jonathan Villar,Jonathan,Villar,MIL,SS,31973,Jonathan Villar,B,villajo01
+Ehire Adrianza,Ehire,Adrianza,MIN,SS,30471,Ehire Adrianza,B,adriaeh01
+Byron Buxton,Byron,Buxton,MIN,OF,32655,Byron Buxton,R,buxtoby01
+Jason Castro,Jason,Castro,MIN,C,30178,Jason Castro,L,castrja01
+Brian Dozier,Brian,Dozier,MIN,2B,31009,Brian Dozier,R,doziebr01
+Eduardo Escobar,Eduardo,Escobar,MIN,SS,30272,Eduardo Escobar,B,escobed01
+Nick Gordon,Nick,Gordon,MIN,SS,33705,Nick Gordon,L,gordoni01
+Robbie Grossman,Robbie,Grossman,MIN,OF,31385,Robbie Grossman,B,grossro01
+Max Kepler,Max,Kepler,MIN,OF,31870,Max Kepler,L,keplema01
+Joe Mauer,Joe,Mauer,MIN,1B,5378,Joe Mauer,L,mauerjo01
+John Ryan Murphy,John Ryan,Murphy,MIN,C,31477,J.R. Murphy,R,murphjr01
+Byung-ho Park,Byung-ho,Park,MIN,1B,34839,Byung Ho Park,R,parkby01
+Ben Paulsen,Ben,Paulsen,MIN,1B,31045,Ben Paulsen,L,paulsbe01
+Jorge Polanco,Jorge,Polanco,MIN,SS,32525,Jorge Polanco,B,polanjo01
+Eddie Rosario,Eddie,Rosario,MIN,OF,31944,Eddie Rosario,L,rosared01
+Miguel Sano,Miguel,Sano,MIN,3B,31260,Miguel Sano,R,sanomi01
+Danny Santana,Danny,Santana,MIN,OF,31387,Danny Santana,B,santada01
+J.B. Shuck,J.B.,Shuck,MIN,OF,30741,J.B. Shuck,L,shuckja01
+Kennys Vargas,Kennys,Vargas,MIN,1B,33012,Kennys Vargas,B,vargake01
+Bobby Abreu,Bobby,Abreu,N/A,OF,3537,Bobby Abreu,L,abreubo01
+Tony Abreu,Tony,Abreu,N/A,2B,28777,Tony Abreu,B,abreuto01
+David Adams,David,Adams,N/A,2B,30679,David Adams,R,adamsda02
+Zoilo Almonte,Zoilo,Almonte,N/A,OF,31469,Zoilo Almonte,B,almonzo01
+Bryan Anderson,Bryan,Anderson,N/A,C,29697,Bryan Anderson,L,anderbr05
+Lars Anderson,Lars,Anderson,N/A,1B,29299,Lars Anderson,L,anderla03
+Rick Ankiel,Rick,Ankiel,N/A,OF,4159,Rick Ankiel,L,ankieri01
+Oswaldo Arcia,Oswaldo,Arcia,N/A,OF,31262,Oswaldo Arcia,L,arciaos01
+J.P. Arencibia,J.P.,Arencibia,N/A,C,29537,J.P. Arencibia,R,arencjp01
+Joaquin Arias,Joaquin,Arias,N/A,SS,28603,Joaquin Arias,R,ariasjo01
+Cody Asche,Cody,Asche,N/A,OF,32637,Cody Asche,L,ascheco01
+Garrett Atkins,Garrett,Atkins,N/A,3B,5507,Garrett Atkins,R,atkinga01
+Xavier Avery,Xavier,Avery,N/A,OF,30827,Xavier Avery,L,averyxa01
+Mike Aviles,Mike,Aviles,N/A,OF,29145,Mike Aviles,R,avilemi01
+Jeff Baker,Jeff,Baker,N/A,1B,5371,Jeff Baker,R,bakerje03
+John Baker,John,Baker,N/A,C,29183,John Baker,L,bakerjo01
+Rod Barajas,Rod,Barajas,N/A,C,4207,Rod Barajas,R,barajro01
+Clint Barmes,Clint,Barmes,N/A,SS,5798,Clint Barmes,R,barmecl01
+Jason Bartlett,Jason,Bartlett,N/A,SS,6044,Jason Bartlett,R,bartlja01
+Daric Barton,Daric,Barton,N/A,1B,6397,Daric Barton,L,bartoda02
+Mike Baxter,Mike,Baxter,N/A,OF,29723,Mike Baxter,L,baxtemi01
+Jason Bay,Jason,Bay,N/A,OF,5496,Jason Bay,R,bayja01
+Gordon Beckham,Gordon,Beckham,N/A,2B,30117,Gordon Beckham,R,beckhgo01
+Joe Benson,Joe,Benson,N/A,OF,30849,Joe Benson,R,bensojo01
+Lance Berkman,Lance,Berkman,N/A,1B,4118,Lance Berkman,B,berkmla01
+Roger Bernadina,Roger,Bernadina,N/A,OF,29173,Roger Bernadina,L,bernaro01
+Quintin Berry,Quintin,Berry,N/A,OF,30418,Quintin Berry,L,berryqu01
+Yuniesky Betancourt,Yuniesky,Betancourt,N/A,2B,6218,Yuniesky Betancourt,R,betanyu01
+Wilson Betemit,Wilson,Betemit,N/A,3B,4968,Wilson Betemit,B,betemwi01
+Jeff Bianchi,Jeff,Bianchi,N/A,SS,31760,Jeff Bianchi,R,biancje01
+Brian Bixler,Brian,Bixler,N/A,2B,29089,Brian Bixler,R,bixlebr01
+Casey Blake,Casey,Blake,N/A,3B,4149,Casey Blake,R,blakeca01
+Gregor Blanco,Gregor,Blanco,N/A,OF,28661,Gregor Blanco,L,blancgr01
+Henry Blanco,Henry,Blanco,N/A,C,3701,Henry Blanco,R,blanche01
+Kyle Blanks,Kyle,Blanks,N/A,1B,29724,Kyle Blanks,R,blankky01
+Willie Bloomquist,Willie,Bloomquist,N/A,2B,4603,Willie Bloomquist,R,bloomwi01
+Brennan Boesch,Brennan,Boesch,N/A,OF,29378,Brennan Boesch,L,boescbr01
+Brian Bogusevic,Brian,Bogusevic,N/A,OF,30029,Brian Bogusevic,L,bogusbr01
+J.C. Boscan,J.C.,Boscan,N/A,C,29554,J.C. Boscan,R,boscajc01
+Jason Bourgeois,Jason,Bourgeois,N/A,OF,29262,Jason Bourgeois,R,bourgja01
+Michael Bourn,Michael,Bourn,N/A,OF,28535,Michael Bourn,L,bournmi01
+Milton Bradley,Milton,Bradley,N/A,OF,4245,Milton Bradley,B,bradlmi01
+Russell Branyan,Russell,Branyan,N/A,1B,3988,Russell Branyan,L,branyru01
+Andrew Brown,Andrew,Brown,N/A,OF,31409,Andrew Brown,R,brownan02
+Domonic Brown,Domonic,Brown,N/A,OF,29673,Domonic Brown,L,browndo01
+Gary Brown,Gary,Brown,N/A,OF,31014,Gary Brown,L,brownga01
+John Buck,John,Buck,N/A,C,5407,John Buck,R,buckjo01
+Pat Burrell,Pat,Burrell,N/A,OF,4214,Pat Burrell,R,burrepa01
+Billy Butler,Billy,Butler,N/A,1B,6396,Billy Butler,R,butlebi03
+Joey Butler,Joey,Butler,N/A,OF,30640,Joey Butler,R,butlejo04
+Marlon Byrd,Marlon,Byrd,N/A,OF,5033,Marlon Byrd,R,byrdma01
+Everth Cabrera,Everth,Cabrera,N/A,SS,30155,Everth Cabrera,B,cabreev01
+Orlando Cabrera,Orlando,Cabrera,N/A,SS,3739,Orlando Cabrera,R,cabreor01
+Alberto Callaspo,Alberto,Callaspo,N/A,3B,28541,Alberto Callaspo,B,callaal01
+Mike Cameron,Mike,Cameron,N/A,OF,3331,Mike Cameron,R,camermi01
+Tony Campana,Tony,Campana,N/A,OF,30846,Tony Campana,L,campato01
+Eric Campbell,Eric,Campbell,N/A,1B,31171,Eric Campbell,R,campber01
+Jorge Cantu,Jorge,Cantu,N/A,3B,6033,Jorge Cantu,R,cantujo01
+Russ Canzler,Russ,Canzler,N/A,3B,30238,Russ Canzler,R,canzlru01
+Adrian Cardenas,Adrian,Cardenas,N/A,2B,30154,Adrian Cardenas,L,cardead01
+Mike Carp,Mike,Carp,N/A,1B,29660,Mike Carp,L,carpmi01
+Jamey Carroll,Jamey,Carroll,N/A,SS,5349,Jamey Carroll,R,carroja01
+Alexi Casilla,Alexi,Casilla,N/A,2B,28575,Alexi Casilla,B,casilal01
+Alex Castellanos,Alex,Castellanos,N/A,OF,31372,Alex Castellanos,R,casteal01
+Ronny Cedeno,Ronny,Cedeno,N/A,SS,6254,Ronny Cedeno,R,cedenro02
+Adron Chambers,Adron,Chambers,N/A,OF,30811,Adron Chambers,L,chambad01
+Endy Chavez,Endy,Chavez,N/A,OF,4727,Endy Chavez,L,chaveen01
+Eric Chavez,Eric,Chavez,N/A,3B,3953,Eric Chavez,L,chaveer01
+Michael Choice,Michael,Choice,N/A,OF,31959,Michael Choice,R,choicmi01
+Pedro Ciriaco,Pedro,Ciriaco,N/A,3B,30084,Pedro Ciriaco,R,ciriape01
+Jeff Clement,Jeff,Clement,N/A,1B,28647,Jeff Clement,L,clemeje01
+Steve Clevenger,Steve,Clevenger,N/A,C,30135,Steve Clevenger,L,clevest01
+Tyler Colvin,Tyler,Colvin,N/A,OF,28999,Tyler Colvin,L,colvity01
+Jose Constanza,Jose,Constanza,N/A,OF,29367,Jose Constanza,L,constjo01
+David Cooper,David,Cooper,N/A,1B,30204,David Cooper,L,coopeda01
+Carlos Corporan,Carlos,Corporan,N/A,C,29412,Carlos Corporan,B,corpoca01
+Mike Costanzo,Mike,Costanzo,N/A,3B,29020,Mike Costanzo,L,costami01
+Collin Cowgill,Collin,Cowgill,N/A,OF,30485,Collin Cowgill,R,cowgico01
+Zack Cox,Zack,Cox,N/A,3B,31016,Zack Cox,L,coxza01
+Carl Crawford,Carl,Crawford,N/A,OF,5035,Carl Crawford,L,crawfca02
+Coco Crisp,Coco,Crisp,N/A,OF,5299,Coco Crisp,B,crispco01
+Trevor Crowe,Trevor,Crowe,N/A,OF,28642,Trevor Crowe,B,crowetr01
+Luis Cruz,Luis,Cruz,N/A,SS,33110,Luis Cruz,R,cruzlu01
+Tony Cruz,Tony,Cruz,N/A,C,30936,Tony Cruz,R,cruzto03
+Michael Cuddyer,Michael,Cuddyer,N/A,OF,4604,Michael Cuddyer,R,cuddymi01
+Jack Cust,Jack,Cust,N/A,OF,,,L,custja01
+Johnny Damon,Johnny,Damon,N/A,OF,,,L,damonjo01
+Jordan Danks,Jordan,Danks,N/A,OF,30449,Jordan Danks,L,danksjo02
+James Darnell,James,Darnell,N/A,3B,30552,James Darnell,R,darneja01
+Ike Davis,Ike,Davis,N/A,1B,30532,Ike Davis,L,davisik02
+David DeJesus,David,DeJesus,N/A,OF,5799,David DeJesus,L,dejesda01
+Chris Denorfia,Chris,Denorfia,N/A,OF,6431,Chris Denorfia,R,denorch01
+Mark DeRosa,Mark,DeRosa,N/A,3B,3933,Mark DeRosa,R,derosma01
+Blake Dewitt,Blake,Dewitt,N/A,3B,29083,Blake DeWitt,L,dewitbl01
+Juan Diaz,Juan,Diaz,N/A,SS,,,R,diazju01
+Matt Diaz,Matt,Diaz,N/A,OF,5595,Matt Diaz,R,diazma02
+Chris Dickerson,Chris,Dickerson,N/A,OF,29209,Chris Dickerson,L,dickech01
+Andy Dirks,Andy,Dirks,N/A,OF,31006,Andy Dirks,L,dirksan01
+Greg Dobbs,Greg,Dobbs,N/A,1B,6099,Greg Dobbs,L,dobbsgr01
+Jason Donald,Jason,Donald,N/A,SS,,,R,donalja01
+Ryan Doumit,Ryan,Doumit,N/A,OF,6304,Ryan Doumit,B,doumiry01
+Matt Downs,Matt,Downs,N/A,2B,,,R,downsma01
+J.D. Drew,J.D.,Drew,N/A,OF,,,L,drewj.01
+Shelley Duncan,Shelley,Duncan,N/A,OF,,,R,duncash01
+Adam Dunn,Adam,Dunn,N/A,1B,4808,Adam Dunn,L,dunnad01
+David Eckstein,David,Eckstein,N/A,SS,,,R,eckstda01
+Jim Edmonds,Jim,Edmonds,N/A,OF,2993,Jim Edmonds,L,edmonji01
+Mark Ellis,Mark,Ellis,N/A,2B,5086,Mark Ellis,R,ellisma01
+Luis Exposito,Luis,Exposito,N/A,C,30540,Luis Exposito,R,exposlu01
+Irving Falu,Irving,Falu,N/A,2B,30390,Irving Falu,B,faluir01
+Eric Farris,Eric,Farris,N/A,2B,30659,Eric Farris,R,farrier01
+Prince Fielder,Prince,Fielder,N/A,DH,5915,Prince Fielder,L,fieldpr01
+Chone Figgins,Chone,Figgins,N/A,3B,5302,Chone Figgins,B,figgich01
+Jesus Flores,Jesus,Flores,N/A,C,,,R,floreje02
+Lew Ford,Lew,Ford,N/A,OF,,,R,fordle01
+Ben Francisco,Ben,Francisco,N/A,OF,,,R,francbe01
+Juan Francisco,Juan,Francisco,N/A,3B,29601,Juan Francisco,L,francju02
+Kevin Frandsen,Kevin,Frandsen,N/A,OF,6528,Kevin Frandsen,R,frandke01
+Kosuke Fukudome,Kosuke,Fukudome,N/A,OF,,,L,fukudko01
+Sam Fuld,Sam,Fuld,N/A,OF,28905,Sam Fuld,L,fuldsa01
+Rafael Furcal,Rafael,Furcal,N/A,2B,4243,Rafael Furcal,B,furcara02
+Mat Gamel,Mat,Gamel,N/A,1B,29230,Mat Gamel,L,gamelma01
+Craig Gentry,Craig,Gentry,N/A,OF,30267,Craig Gentry,R,gentrcr01
+Chris Getz,Chris,Getz,N/A,2B,29207,Chris Getz,L,getzch01
+Jason Giambi,Jason,Giambi,N/A,DH,3226,Jason Giambi,L,giambja01
+Chris Gimenez,Chris,Gimenez,N/A,C,,,R,gimench01
+Hector Gimenez,Hector,Gimenez,N/A,C,,,B,gimenhe01
+Caleb Gindl,Caleb,Gindl,N/A,OF,30326,Caleb Gindl,L,gindlca01
+Troy Glaus,Troy,Glaus,N/A,3B,,,R,glaustr01
+Jonny Gomes,Jonny,Gomes,N/A,OF,5860,Jonny Gomes,R,gomesjo01
+Mauro Gomez,Mauro,Gomez,N/A,1B,31550,Mauro Gomez,R,gomezma01
+Alex Gonzalez,Alex,Gonzalez,N/A,SS,3916,Alex Gonzalez,R,gonzaal02
+Alberto Gonzalez,Alberto,Gonzalez,N/A,2B,,,R,gonzaal03
+Grant Green,Grant,Green,N/A,2B,30430,Grant Green,R,greengr01
+Taylor Green,Taylor,Green,N/A,3B,29045,Taylor Green,L,greenta01
+Alexander Guerrero,Alexander,Guerrero,N/A,3B,33096,Alex Guerrero,R,guerral01
+Vladimir Guerrero,Vladimir,Guerrero,N/A,OF,,,R,guerrvl01
+Carlos Guillen,Carlos,Guillen,N/A,2B,,,B,guillca01
+Jose Guillen,Jose,Guillen,N/A,OF,,,R,guilljo01
+Jesus Guzman,Jesus,Guzman,N/A,1B,30108,Jesus Guzman,R,guzmaje01
+Tony Gwynn,Tony,Gwynn,N/A,OF,28516,Tony Gwynn,L,gwynnto02
+Travis Hafner,Travis,Hafner,N/A,DH,4752,Travis Hafner,L,hafnetr01
+Jerry Hairston,Jerry,Hairston,N/A,SS,3966,Jerry Hairston Jr.,R,hairsje02
+Scott Hairston,Scott,Hairston,N/A,OF,5401,Scott Hairston,R,hairssc01
+Bill Hall,Bill,Hall,N/A,2B,,,R,hallbi01
+Ryan Hanigan,Ryan,Hanigan,N/A,C,28899,Ryan Hanigan,R,hanigry01
+Jack Hannahan,Jack,Hannahan,N/A,1B,28468,Jack Hannahan,L,hannaja01
+Corey Hart,Corey,Hart,N/A,1B,5973,Corey Hart,R,hartco01
+Alexander Hassan,Alexander,Hassan,N/A,OF,30770,Alex Hassan,R,hassaal01
+Reese Havens,Reese,Havens,N/A,2B,30216,Reese Havens,L,havenre01
+Brad Hawpe,Brad,Hawpe,N/A,OF,,,L,hawpebr01
+Todd Helton,Todd,Helton,N/A,1B,3709,Todd Helton,L,heltoto01
+Luis Hernandez,Luis,Hernandez,N/A,SS,,,B,hernalu01
+Ramon Hernandez,Ramon,Hernandez,N/A,C,,,R,hernara02
+Elian Herrera,Elian,Herrera,N/A,2B,,,B,herreel01
+Jonathan Herrera,Jonathan,Herrera,N/A,2B,29119,Jonathan Herrera,B,herrejo03
+John Hester,John,Hester,N/A,C,29788,John Hester,R,hestejo01
+Brandon Hicks,Brandon,Hicks,N/A,2B,29552,Brandon Hicks,R,hicksbr01
+Aaron Hill,Aaron,Hill,N/A,2B,6190,Aaron Hill,R,hillaa01
+Steven Hill,Steven,Hill,N/A,C,,,R,hillst01
+Eric Hinske,Eric,Hinske,N/A,OF,,,L,hinsker01
+Ryan Howard,Ryan,Howard,N/A,1B,6097,Ryan Howard,L,howarry01
+Orlando Hudson,Orlando,Hudson,N/A,2B,,,B,hudsoor01
+Aubrey Huff,Aubrey,Huff,N/A,OF,,,L,huffau01
+Luke Hughes,Luke,Hughes,N/A,2B,,,R,hughelu01
+Torii Hunter,Torii,Hunter,N/A,OF,3723,Torii Hunter,R,hunteto01
+Raul Ibanez,Raul,Ibanez,N/A,OF,3504,Raul Ibanez,L,ibanera01
+Brandon Inge,Brandon,Inge,N/A,3B,,,R,ingebr01
+Travis Ishikawa,Travis,Ishikawa,N/A,1B,6509,Travis Ishikawa,L,ishiktr01
+Akinori Iwamura,Akinori,Iwamura,N/A,2B,,,L,iwamuak01
+Maicer Izturis,Maicer,Izturis,N/A,2B,6087,Maicer Izturis,B,izturma01
+Brett Jackson,Brett,Jackson,N/A,OF,30594,Brett Jackson,L,jacksbr01
+Conor Jackson,Conor,Jackson,N/A,OF,,,R,jacksco01
+Ryan Jackson,Ryan,Jackson,N/A,SS,31213,Ryan Jackson,R,jacksry02
+Mike Jacobs,Mike,Jacobs,N/A,1B,,,L,jacobmi02
+Paul Janish,Paul,Janish,N/A,3B,29130,Paul Janish,R,janispa01
+Derek Jeter,Derek,Jeter,N/A,SS,3246,Derek Jeter,R,jeterde01
+Luis Jimenez,Luis,Jimenez,N/A,3B,31970,Luis Jimenez,R,jimenlu02
+Chris Johnson,Chris,Johnson,N/A,1B,29616,Chris Johnson,R,johnsch05
+Dan Johnson,Dan,Johnson,N/A,1B,6096,Dan Johnson,L,johnsda06
+Elliot Johnson,Elliot,Johnson,N/A,OF,29078,Elliot Johnson,B,johnsel02
+Kelly Johnson,Kelly,Johnson,N/A,2B,6295,Kelly Johnson,L,johnske05
+Nick Johnson,Nick,Johnson,N/A,1B,,,L,johnsni01
+Reed Johnson,Reed,Johnson,N/A,OF,5452,Reed Johnson,R,johnsre02
+Rob Johnson,Rob,Johnson,N/A,C,28866,Rob Johnson,R,johnsro07
+Andruw Jones,Andruw,Jones,N/A,OF,,,R,jonesan01
+Chipper Jones,Chipper,Jones,N/A,3B,3006,Chipper Jones,R,jonesch06
+Garrett Jones,Garrett,Jones,N/A,OF,28763,Garrett Jones,L,jonesga02
+Kila Ka'aihue,Kila,Ka'aihue,N/A,1B,,,L,kaaihki01
+Ryan Kalish,Ryan,Kalish,N/A,OF,30539,Ryan Kalish,L,kalisry01
+Munenori Kawasaki,Munenori,Kawasaki,N/A,2B,32047,Munenori Kawasaki,L,kawasmu01
+Austin Kearns,Austin,Kearns,N/A,OF,5012,Austin Kearns,R,kearnau01
+Don Kelly,Don,Kelly,N/A,1B,28730,Don Kelly,L,kellydo01
+Jason Kendall,Jason,Kendall,N/A,C,,,R,kendaja01
+Adam Kennedy,Adam,Kennedy,N/A,2B,,,L,kennead01
+Jeff Keppinger,Jeff,Keppinger,N/A,2B,6076,Jeff Keppinger,R,keppije01
+Paul Konerko,Paul,Konerko,N/A,1B,3747,Paul Konerko,R,konerpa01
+Casey Kotchman,Casey,Kotchman,N/A,1B,,,L,kotchca01
+Mark Kotsay,Mark,Kotsay,N/A,OF,3685,Mark Kotsay,L,kotsama01
+George Kottaras,George,Kottaras,N/A,C,28665,George Kottaras,L,kottage01
+Kevin Kouzmanoff,Kevin,Kouzmanoff,N/A,3B,28585,Kevin Kouzmanoff,R,kouzmke01
+Pete Kozma,Pete,Kozma,N/A,SS,30011,Pete Kozma,R,kozmape01
+Jason Kubel,Jason,Kubel,N/A,OF,6102,Jason Kubel,L,kubelja01
+Bryan LaHair,Bryan,LaHair,N/A,1B,,,L,lahaibr01
+Brandon Laird,Brandon,Laird,N/A,3B,30623,Brandon Laird,R,lairdbr01
+Gerald Laird,Gerald,Laird,N/A,C,5465,Gerald Laird,R,lairdge01
+Ryan Langerhans,Ryan,Langerhans,N/A,OF,5109,Ryan Langerhans,L,langery01
+Matt LaPorta,Matt,LaPorta,N/A,OF,,,R,laportma01
+Adam LaRoche,Adam,LaRoche,N/A,1B,5879,Adam LaRoche,L,larocad01
+Brett Lawrie,Brett,Lawrie,N/A,2B,30644,Brett Lawrie,R,lawribr01
+Carlos Lee,Carlos,Lee,N/A,1B,,,R,leeca01
+Dae-Ho Lee,Dae-Ho,Lee,N/A,1B,,,R,leeda02
+Derrek Lee,Derrek,Lee,N/A,1B,,,L,leede02
+Fred Lewis,Fred,Lewis,N/A,OF,,,L,lewisfr02
+Alex Liddi,Alex,Liddi,N/A,3B,29493,Alex Liddi,R,liddial01
+Brent Lillibridge,Brent,Lillibridge,N/A,OF,,,R,lillibr01
+Steve Lombardozzi,Steve,Lombardozzi,N/A,2B,31996,Stephen Lombardozzi,B,lombast02
+Felipe Lopez,Felipe,Lopez,N/A,SS,,,B,lopezfe01
+Jose Lopez,Jose,Lopez,N/A,2B,,,R,lopezjo01
+Ryan Ludwick,Ryan,Ludwick,N/A,OF,5036,Ryan Ludwick,R,ludwiry01
+Donald Lutz,Donald,Lutz,N/A,OF,32084,Donald Lutz,L,lutzdo01
+Zach Lutz,Zach,Lutz,N/A,3B,30968,Zach Lutz,R,lutzza01
+Mitch Maier,Mitch,Maier,N/A,OF,,,L,maiermi01
+Fernando Martinez,Fernando,Martinez,N/A,OF,30141,Fernando Martinez,L,martife02
+Luis Martinez,Luis,Martinez,N/A,C,30975,Luis Martinez,R,martilu02
+Darin Mastroianni,Darin,Mastroianni,N/A,OF,30807,Darin Mastroianni,R,mastrda01
+Joe Mather,Joe,Mather,N/A,OF,,,R,mathejo02
+Hideki Matsui,Hideki,Matsui,N/A,OF,,,L,matsuhi01
+Kazuo Matsui,Kazuo,Matsui,N/A,2B,,,B,matsuka01
+Justin Maxwell,Justin,Maxwell,N/A,OF,28896,Justin Maxwell,R,maxweju01
+John Mayberry,John,Mayberry,N/A,OF,30042,John Mayberry Jr.,R,maybejo02
+Edwin Maysonet,Edwin,Maysonet,N/A,2B,,,R,maysoed01
+Matt McBride,Matt,McBride,N/A,1B,30794,Matt McBride,L,mcbrima01
+Mike McCoy,Mike,McCoy,N/A,2B,,,R,mccoymi01
+Darnell McDonald,Darnell,McDonald,N/A,OF,4616,Darnell McDonald,R,mcdonda02
+John McDonald,John,McDonald,N/A,3B,4108,John McDonald,R,mcdonjo03
+Casey McGehee,Casey,McGehee,N/A,3B,29245,Casey McGehee,R,mcgehca01
+Chris Mcguiness,Chris,Mcguiness,N/A,1B,30879,Chris McGuiness,L,mcguich01
+Nate McLouth,Nate,McLouth,N/A,OF,6220,Nate McLouth,L,mclouna01
+Tommy Medica,Tommy,Medica,N/A,OF,32882,Tommy Medica,R,medicto01
+Ernesto Mejia,Ernesto,Mejia,N/A,1B,30426,Ernesto Mejia,R,mejiaer01
+Jesus Merchan,Jesus,Merchan,N/A,SS,,,R,merchje01
+Melky Mesa,Melky,Mesa,N/A,OF,31022,Melky Mesa,R,mesame01
+Aaron Miles,Aaron,Miles,N/A,2B,,,B,milesaa01
+Lastings Milledge,Lastings,Milledge,N/A,OF,,,L,millela02
+Jose Molina,Jose,Molina,N/A,C,4169,Jose Molina,R,molinjo01
+Jesus Montero,Jesus,Montero,N/A,1B,29448,Jesus Montero,R,monteje01
+Adam Moore,Adam,Moore,N/A,C,29491,Adam Moore,R,mooread01
+Scott Moore,Scott,Moore,N/A,3B,,,L,mooresc02
+Melvin Mora,Melvin,Mora,N/A,3B,4078,Melvin Mora,R,morame01
+Brent Morel,Brent,Morel,N/A,3B,30601,Brent Morel,R,morelbr01
+Nyjer Morgan,Nyjer,Morgan,N/A,OF,28885,Nyjer Morgan,L,morgany01
+Justin Morneau,Justin,Morneau,N/A,DH,5379,Justin Morneau,L,morneju01
+David Murphy,David,Murphy,N/A,OF,28582,David Murphy,L,murphda07
+Xavier Nady,Xavier,Nady,N/A,OF,4564,Xavier Nady,R,nadyxa01
+Hiroyuki Nakajima,Hiroyuki,Nakajima,N/A,SS,32584,Hiroyuki Nakajima,R,nakajhi01
+Dioner Navarro,Dioner,Navarro,N/A,C,5902,Dioner Navarro,B,navardi01
+Thomas Neal,Thomas,Neal,N/A,OF,30572,Thomas Neal,R,nealth01
+Chris Nelson,Chris,Nelson,N/A,3B,30156,Chris Nelson,R,nelsoch01
+Mike Nickeas,Mike,Nickeas,N/A,C,29665,Mike Nickeas,R,nickemi01
+Wil Nieves,Wil,Nieves,N/A,C,5219,Wil Nieves,R,nievewi01
+Tsuyoshi Nishioka,Tsuyoshi,Nishioka,N/A,SS,,,B,nishits01
+Jayson Nix,Jayson,Nix,N/A,3B,28951,Jayson Nix,R,nixja01
+Laynce Nix,Laynce,Nix,N/A,OF,,,L,nixla01
+Hector Olivera,Hector,Olivera,N/A,OF,34735,Hector Olivera,R,olivehe01
+Miguel Olivo,Miguel,Olivo,N/A,C,,,R,olivomi01
+Magglio Ordonez,Magglio,Ordonez,N/A,OF,,,R,ordonmi01
+Pete Orr,Pete,Orr,N/A,2B,6088,Pete Orr,L,orrpe01
+David Ortiz,David,Ortiz,N/A,DH,3748,David Ortiz,L,ortizda01
+Lyle Overbay,Lyle,Overbay,N/A,1B,4598,Lyle Overbay,L,overbly01
+Jordan Pacheco,Jordan,Pacheco,N/A,3B,30605,Jordan Pacheco,R,pachejo01
+Angel Pagan,Angel,Pagan,N/A,OF,6488,Angel Pagan,B,paganan01
+Jimmy Paredes,Jimmy,Paredes,N/A,OF,30680,Jimmy Paredes,B,paredji01
+Kyle Parker,Kyle,Parker,N/A,OF,31953,Kyle Parker,R,parkeky01
+Tyler Pastornicky,Tyler,Pastornicky,N/A,2B,30710,Tyler Pastornicky,R,pastoty01
+Corey Patterson,Corey,Patterson,N/A,OF,,,L,patteco01
+Ronny Paulino,Ronny,Paulino,N/A,C,,,R,pauliro01
+Xavier Paul,Xavier,Paul,N/A,OF,28985,Xavier Paul,L,paulxa01
+Carlos Peguero,Carlos,Peguero,N/A,OF,31587,Carlos Peguero,L,pegueca01
+Francisco Peguero,Francisco,Peguero,N/A,OF,30402,Francisco Peguero,R,peguefr01
+Carlos Pena,Carlos,Pena,N/A,1B,4594,Carlos Pena,L,penaca01
+Juan Perez,Juan,Perez,N/A,OF,28605,Juan Perez,R,perezju01
+Bryan Petersen,Bryan,Petersen,N/A,OF,30240,Bryan Petersen,L,peterbr01
+Gregorio Petit,Gregorio,Petit,N/A,SS,,,R,petitgr01
+Cord Phelps,Cord,Phelps,N/A,2B,30823,Cord Phelps,B,phelpco01
+Denis Phipps,Denis,Phipps,N/A,OF,30808,Denis Phipps,R,phippde01
+Felix Pie,Felix,Pie,N/A,OF,6475,Felix Pie,L,piefe01
+Juan Pierre,Juan,Pierre,N/A,OF,4486,Juan Pierre,L,pierrju01
+A.J. Pierzynski,A.J.,Pierzynski,N/A,C,3948,A.J. Pierzynski,L,pierza.01
+Scott Podsednik,Scott,Podsednik,N/A,OF,,,L,podsesc01
+Placido Polanco,Placido,Polanco,N/A,3B,3888,Placido Polanco,R,polanpl01
+Jorge Posada,Jorge,Posada,N/A,C,3341,Jorge Posada,B,posadjo01
+Josh Prince,Josh,Prince,N/A,OF,30660,Josh Prince,R,princjo01
+Nick Punto,Nick,Punto,N/A,2B,4946,Nick Punto,B,puntoni01
+Carlos Quentin,Carlos,Quentin,N/A,OF,6192,Carlos Quentin,R,quentca01
+Humberto Quintero,Humberto,Quintero,N/A,C,5794,Humberto Quintero,R,quinthu01
+Omar Quintanilla,Omar,Quintanilla,N/A,SS,6374,Omar Quintanilla,L,quintom01
+Ryan Raburn,Ryan,Raburn,N/A,OF,6124,Ryan Raburn,R,raburry01
+Alexei Ramirez,Alexei,Ramirez,N/A,SS,28952,Alexei Ramirez,R,ramiral03
+Aramis Ramirez,Aramis,Ramirez,N/A,3B,3853,Aramis Ramirez,R,ramirar01
+Manny Ramirez,Manny,Ramirez,N/A,OF,2974,Manny Ramirez,R,ramirma02
+Nolan Reimold,Nolan,Reimold,N/A,OF,28974,Nolan Reimold,R,reimono01
+Ben Revere,Ben,Revere,N/A,OF,29976,Ben Revere,L,reverbe01
+Will Rhymes,Will,Rhymes,N/A,2B,,,L,rhymewi01
+Alex Rios,Alex,Rios,N/A,OF,5880,Alex Rios,R,riosal01
+Juan Rivera,Juan,Rivera,N/A,OF,4956,Juan Rivera,R,riverju01
+Brian Roberts,Brian,Roberts,N/A,2B,4773,Brian Roberts,B,roberbr01
+Ryan Roberts,Ryan,Roberts,N/A,3B,28532,Ryan Roberts,R,roberry01
+Trayvon Robinson,Trayvon,Robinson,N/A,OF,29639,Trayvon Robinson,B,robintr01
+Alex Rodriguez,Alex,Rodriguez,N/A,DH,3115,Alex Rodriguez,R,rodrial01
+Henry Rodriguez,Henry,Rodriguez,N/A,2B,31331,Henry Rodriguez,B,rodrihe04
+Ivan Rodriguez,Ivan,Rodriguez,N/A,C,2523,Ivan Rodriguez,R,rodriiv01
+Scott Rolen,Scott,Rolen,N/A,3B,,,R,rolensc01
+Jimmy Rollins,Jimmy,Rollins,N/A,SS,4258,Jimmy Rollins,B,rolliji01
+Stefen Romero,Stefen,Romero,N/A,OF,32204,Stefen Romero,R,romerst01
+Wilin Rosario,Wilin,Rosario,N/A,1B,30197,Wilin Rosario,R,rosarwi01
+Cody Ross,Cody,Ross,N/A,OF,5404,Cody Ross,R,rossco01
+David Ross,David,Ross,N/A,C,5206,David Ross,R,rossda01
+Aaron Rowand,Aaron,Rowand,N/A,OF,,,R,rowanaa01
+Darin Ruf,Darin,Ruf,N/A,1B,31470,Darin Ruf,R,rufda01
+Freddy Sanchez,Freddy,Sanchez,N/A,SS,,,R,sanchfr01
+Gaby Sanchez,Gaby,Sanchez,N/A,1B,29270,Gaby Sanchez,R,sanchga01
+Tony Sanchez,Tony,Sanchez,N/A,C,30584,Tony Sanchez,R,sanchto01
+Ramon Santiago,Ramon,Santiago,N/A,SS,5178,Ramon Santiago,B,santira01
+Dave Sappelt,Dave,Sappelt,N/A,OF,30797,Dave Sappelt,R,sappeda01
+Josh Satin,Josh,Satin,N/A,1B,31297,Josh Satin,R,satinjo01
+Nate Schierholtz,Nate,Schierholtz,N/A,OF,28815,Nate Schierholtz,L,schiena01
+Skip Schumaker,Skip,Schumaker,N/A,OF,6307,Skip Schumaker,L,schumsk01
+Luke Scott,Luke,Scott,N/A,DH,6229,Luke Scott,L,scottlu01
+Marco Scutaro,Marco,Scutaro,N/A,2B,5217,Marco Scutaro,R,scutama01
+Kelly Shoppach,Kelly,Shoppach,N/A,C,6200,Kelly Shoppach,R,shoppke01
+Moises Sierra,Moises,Sierra,N/A,OF,30675,Moises Sierra,R,sierrmo01
+Grady Sizemore,Grady,Sizemore,N/A,OF,5882,Grady Sizemore,L,sizemgr01
+Scott Sizemore,Scott,Sizemore,N/A,3B,29388,Scott Sizemore,R,sizemsc01
+Kyle Skipworth,Kyle,Skipworth,N/A,C,31021,Kyle Skipworth,L,skipwky01
+Chris Snyder,Chris,Snyder,N/A,C,6070,Chris Snyder,R,snydech02
+Alfonso Soriano,Alfonso,Soriano,N/A,OF,3993,Alfonso Soriano,R,soriaal01
+Ryan Spilborghs,Ryan,Spilborghs,N/A,OF,,,R,spilbry01
+Ian Stewart,Ian,Stewart,N/A,3B,28722,Ian Stewart,L,stewaia01
+Drew Stubbs,Drew,Stubbs,N/A,OF,29611,Drew Stubbs,R,stubbdr01
+Ryan Sweeney,Ryan,Sweeney,N/A,OF,28578,Ryan Sweeney,L,sweenry01
+Nick Swisher,Nick,Swisher,N/A,OF,5937,Nick Swisher,B,swishni01
+Jose Tabata,Jose,Tabata,N/A,OF,29469,Jose Tabata,R,tabatjo01
+Oscar Taveras,Oscar,Taveras,N/A,OF,31207,Oscar Taveras,L,taveros01
+Taylor Teagarden,Taylor,Teagarden,N/A,C,29191,Taylor Teagarden,R,teagata01
+Mark Teahen,Mark,Teahen,N/A,3B,,,L,teahema01
+Mark Teixeira,Mark,Teixeira,N/A,1B,4937,Mark Teixeira,B,teixema01
+Miguel Tejada,Miguel,Tejada,N/A,SS,3727,Miguel Tejada,R,tejadmi01
+Blake Tekotte,Blake,Tekotte,N/A,OF,30842,Blake Tekotte,L,tekotbl01
+Ryan Theriot,Ryan,Theriot,N/A,2B,6437,Ryan Theriot,R,theriry01
+Josh Thole,Josh,Thole,N/A,C,30188,Josh Thole,L,tholejo01
+Jim Thome,Jim,Thome,N/A,1B,2604,Jim Thome,L,thomeji01
+Steve Tolleson,Steve,Tolleson,N/A,OF,29437,Steve Tolleson,R,tollest01
+Andres Torres,Andres,Torres,N/A,OF,5089,Andres Torres,B,torrean02
+Yorvit Torrealba,Yorvit,Torrealba,N/A,C,4568,Yorvit Torrealba,R,torreyo01
+Chad Tracy,Chad,Tracy,N/A,3B,5402,Chad Tracy,L,tracych01
+Carlos Triunfel,Carlos,Triunfel,N/A,SS,29503,Carlos Triunfel,R,triunca01
+Dan Uggla,Dan,Uggla,N/A,2B,6462,Dan Uggla,R,ugglada01
+Juan Uribe,Juan,Uribe,N/A,3B,4657,Juan Uribe,R,uribeju01
+Jordany Valdespin,Jordany,Valdespin,N/A,2B,30907,Jordany Valdespin,L,valdejo02
+Wilson Valdez,Wilson,Valdez,N/A,SS,,,R,valdewi01
+Will Venable,Will,Venable,N/A,OF,29224,Will Venable,L,venabwi01
+Dayan Viciedo,Dayan,Viciedo,N/A,OF,30103,Dayan Viciedo,R,vicieda01
+Shane Victorino,Shane,Victorino,N/A,OF,5409,Shane Victorino,B,victosh01
+Josh Vitters,Josh,Vitters,N/A,3B,29978,Josh Vitters,R,vittejo01
+Omar Vizquel,Omar,Vizquel,N/A,SS,2149,Omar Vizquel,B,vizquom01
+Zach Walters,Zach,Walters,N/A,1B,31199,Zach Walters,B,walteza01
+Casper Wells,Casper,Wells,N/A,OF,30069,Casper Wells,R,wellsca01
+Vernon Wells,Vernon,Wells,N/A,OF,4166,Vernon Wells,R,wellsve01
+Ryan Wheeler,Ryan,Wheeler,N/A,3B,30758,Ryan Wheeler,L,wheelry01
+Ty Wigginton,Ty,Wigginton,N/A,1B,5176,Ty Wigginton,R,wiggity01
+Josh Willingham,Josh,Willingham,N/A,OF,6024,Josh Willingham,R,willijo03
+Bobby Wilson,Bobby,Wilson,N/A,C,29115,Bobby Wilson,R,wilsobo02
+DeWayne Wise,DeWayne,Wise,N/A,OF,,,L,wisede01
+Brandon Wood,Brandon,Wood,N/A,3B,,,R,woodbr01
+Danny Worth,Danny,Worth,N/A,2B,29067,Danny Worth,R,worthda01
+Kevin Youkilis,Kevin,Youkilis,N/A,3B,5375,Kevin Youkilis,R,youklke01
+Delmon Young,Delmon,Young,N/A,OF,6138,Delmon Young,R,youngde03
+Matt Young,Matt,Young,N/A,OF,,,L,youngma02
+Michael Young,Michael,Young,N/A,1B,4566,Michael Young,R,youngmi02
+Last Player,Last,Player,N/A,OF,,,L,zzzzzzz01
+Jay Bruce,Jay,Bruce,NYM,OF,28954,Jay Bruce,L,bruceja01
+Asdrubal Cabrera,Asdrubal,Cabrera,NYM,SS,28671,Asdrubal Cabrera,B,cabreas01
+Gavin Cecchini,Gavin,Cecchini,NYM,SS,,,R,cecchga02
+Yoenis Cespedes,Yoenis,Cespedes,NYM,OF,32080,Yoenis Cespedes,R,cespeyo01
+Michael Conforto,Michael,Conforto,NYM,OF,33711,Michael Conforto,L,confomi01
+Travis D'Arnaud,Travis,D'Arnaud,NYM,C,29951,Travis d'Arnaud,R,darnatr01
+Lucas Duda,Lucas,Duda,NYM,1B,30953,Lucas Duda,L,dudalu01
+Wilmer Flores,Wilmer,Flores,NYM,3B,30627,Wilmer Flores,R,florewi01
+Curtis Granderson,Curtis,Granderson,NYM,OF,6125,Curtis Granderson,L,grandcu01
+Juan Lagares,Juan,Lagares,NYM,OF,31410,Juan Lagares,R,lagarju01
+Brandon Nimmo,Brandon,Nimmo,NYM,OF,32159,Brandon Nimmo,L,nimmobr01
+Kevin Plawecki,Kevin,Plawecki,NYM,C,33132,Kevin Plawecki,R,plaweke01
+Jose Reyes,Jose,Reyes,NYM,3B,5411,Jose Reyes,B,reyesjo01
+Rene Rivera,Rene,Rivera,NYM,C,6128,Rene Rivera,R,riverre01
+T.J. Rivera,T.J.,Rivera,NYM,1B,,,R,rivertj01
+Amed Rosario,Amed,Rosario,NYM,SS,,,R,rosaram01
+Justin Ruggiano,Justin,Ruggiano,NYM,OF,28922,Justin Ruggiano,R,ruggiju01
+Dominic Smith,Dominic,Smith,NYM,1B,33218,Dominic Smith,L,smithdo01
+Wilfredo Tovar,Wilfredo,Tovar,NYM,SS,32190,Wilfredo Tovar,R,tovarwi01
+Neil Walker,Neil,Walker,NYM,2B,29590,Neil Walker,B,walkene01
+David Wright,David,Wright,NYM,3B,6035,David Wright,R,wrighda03
+Tyler Austin,Tyler,Austin,NYY,OF,,,R,austity01
+Greg Bird,Greg,Bird,NYY,1B,32695,Greg Bird,L,birdgr01
+Chris Carter,Chris,Carter,NYY,1B,29486,Chris Carter,R,cartech02
+Starlin Castro,Starlin,Castro,NYY,2B,30450,Starlin Castro,R,castrst01
+Jake Cave,Jake,Cave,NYY,OF,33417,Jake Cave,L,caveja01
+Jacoby Ellsbury,Jacoby,Ellsbury,NYY,OF,28637,Jacoby Ellsbury,L,ellsbja01
+Clint Frazier,Clint,Frazier,NYY,OF,33188,Clint Frazier,R,fraziecl01
+Brett Gardner,Brett,Gardner,NYY,OF,29174,Brett Gardner,L,gardnbr01
+Didi Gregorius,Didi,Gregorius,NYY,SS,31376,Didi Gregorius,L,gregodi01
+Chase Headley,Chase,Headley,NYY,3B,28809,Chase Headley,B,headlch01
+Aaron Hicks,Aaron,Hicks,NYY,OF,31253,Aaron Hicks,B,hicksaa01
+Matt Holliday,Matt,Holliday,NYY,OF,5940,Matt Holliday,R,hollima01
+Aaron Judge,Aaron,Judge,NYY,OF,33192,Aaron Judge,R,judgeaa01
+Jorge Mateo,Jorge,Mateo,NYY,SS,33832,Jorge Mateo,R,mateojo01
+Billy McKinney,Billy,McKinney,NYY,OF,33196,Billy McKinney,L,mckinbi01
+Robert Refsnyder,Robert,Refsnyder,NYY,OF,33411,Robert Refsnyder,R,refsnro01
+Austin Romine,Austin,Romine,NYY,C,,,R,rominau01
+Blake Rutherford,Blake,Rutherford,NYY,OF,,,L,ruthebl01
+Gary Sanchez,Gary,Sanchez,NYY,C,31095,Gary Sanchez,R,sanchga02
+Donovan Solano,Donovan,Solano,NYY,2B,29703,Donovan Solano,R,solando01
+Ruben Tejada,Ruben,Tejada,NYY,3B,29661,Ruben Tejada,R,tejadru01
+Gleyber Torres,Gleyber,Torres,NYY,SS,,,R,torregl01
+Ronald Torreyes,Ronald,Torreyes,NYY,3B,,,R,torrero01
+Tyler Wade,Tyler,Wade,NYY,SS,,,L,wadety01
+Mason Williams,Mason,Williams,NYY,OF,31848,Mason Williams,L,willima10
+Eric Young Jr.,Eric,Young Jr.,NYY,DH,29759,Eric Young Jr.,B,younger03
+Yonder Alonso,Yonder,Alonso,OAK,1B,30016,Yonder Alonso,L,alonsyo01
+Franklin Barreto,Franklin,Barreto,OAK,SS,33226,Franklin Barreto,R,barrefr01
+Mark Canha,Mark,Canha,OAK,1B,31670,Mark Canha,R,canhama01
+Matt Chapman,Matt,Chapman,OAK,3B,,,R,chapmma01
+Khris Davis,Khris,Davis,OAK,OF,31478,Khris Davis,R,daviskh01
+Rajai Davis,Rajai,Davis,OAK,OF,28545,Rajai Davis,R,davisra01
+Alejandro De Aza,Alejandro,De Aza,OAK,OF,28728,Alejandro De Aza,L,deazaal01
+Jaff Decker,Jaff,Decker,OAK,OF,31259,Jaff Decker,L,deckeja01
+Ryon Healy,Ryon,Healy,OAK,3B,33970,Ryon Healy,R,healyry01
+Matt Joyce,Matt,Joyce,OAK,OF,29124,Matt Joyce,L,joycema01
+Ryan Lavarnway,Ryan,Lavarnway,OAK,C,31039,Ryan Lavarnway,R,lavarry01
+Jed Lowrie,Jed,Lowrie,OAK,2B,29074,Jed Lowrie,B,lowrije01
+Bruce Maxwell,Bruce,Maxwell,OAK,C,,,,maxwebr01
+Max Muncy,Max,Muncy,OAK,2B,,,L,muncyma01
+Matt Olson,Matt,Olson,OAK,1B,32767,Matt Olson,L,olsonma01
+Chris Parmelee,Chris,Parmelee,OAK,1B,30228,Chris Parmelee,L,parmech01
+Josh Phegley,Josh,Phegley,OAK,C,30600,Josh Phegley,R,phegljo01
+Chad Pinder,Chad,Pinder,OAK,SS,,,R,pindech01
+Trevor Plouffe,Trevor,Plouffe,OAK,3B,29441,Trevor Plouffe,R,plouftr01
+Jason Pridie,Jason,Pridie,OAK,OF,6463,Jason Pridie,L,pridija01
+Adam Rosales,Adam,Rosales,OAK,2B,29206,Adam Rosales,R,rosalad01
+Marcus Semien,Marcus,Semien,OAK,SS,32146,Marcus Semien,R,semiema01
+Jake Smolinski,Jake,Smolinski,OAK,OF,31558,Jake Smolinski,R,smolija01
+Stephen Vogt,Stephen,Vogt,OAK,C,31032,Stephen Vogt,L,vogtst01
+Joey Wendle,Joey,Wendle,OAK,2B,,,L,wendljo01
+Jorge Alfaro,Jorge,Alfaro,PHI,C,31737,Jorge Alfaro,R,alfarjo01
+Aaron Altherr,Aaron,Altherr,PHI,OF,31738,Aaron Altherr,R,altheaa01
+Andres Blanco,Andres,Blanco,PHI,2B,,,B,blancan01
+Chris Coghlan,Chris,Coghlan,PHI,2B,29772,Chris Coghlan,L,coghlch01
+J.P. Crawford,J.P.,Crawford,PHI,SS,33210,J.P. Crawford,L,crawfjp01
+Taylor Featherston,Taylor,Featherston,PHI,2B,33407,Taylor Featherston,R,feathta01
+Pedro Florimon,Pedro,Florimon,PHI,2B,30310,Pedro Florimon,B,floripe01
+Maikel Franco,Maikel,Franco,PHI,3B,32163,Maikel Franco,L,francma02
+Freddy Galvis,Freddy,Galvis,PHI,SS,29670,Freddy Galvis,B,galvifr01
+Tyler Goeddel,Tyler,Goeddel,PHI,OF,34249,Tyler Goeddel,R,goeddty01
+Cesar Hernandez,Cesar,Hernandez,PHI,2B,31130,Cesar Hernandez,B,hernace02
+Odubel Herrera,Odubel,Herrera,PHI,OF,32868,Odubel Herrera,L,herreod01
+Bryan Holaday,Bryan,Holaday,PHI,C,31961,Bryan Holaday,R,holadbr01
+Rhys Hoskins,Rhys,Hoskins,PHI,1B,,,R,hoskirh01
+Tommy Joseph,Tommy,Joseph,PHI,1B,31995,Tommy Joseph,R,josepto01
+Howie Kendrick,Howie,Kendrick,PHI,2B,6524,Howie Kendrick,R,kendrho01
+Mickey Moniak,Mickey,Moniak,PHI,OF,,,L,moniami01
+Daniel Nava,Daniel,Nava,PHI,OF,30910,Daniel Nava,B,navada01
+Roman Quinn,Roman,Quinn,PHI,OF,32779,Roman Quinn,B,quinnro01
+Cameron Rupp,Cameron,Rupp,PHI,C,31811,Cameron Rupp,R,ruppca01
+Michael Saunders,Michael,Saunders,PHI,OF,29505,Michael Saunders,L,saundmi01
+Brock Stassi,Brock,Stassi,PHI,1B,,,L,stassbr01
+Nick Williams,Nick,Williams,PHI,OF,33266,Nick Williams,L,willini01
+Josh Bell,Josh,Bell,PIT,1B,32517,Josh Bell,B,belljo02
+Francisco Cervelli,Francisco,Cervelli,PIT,C,29273,Francisco Cervelli,R,cervefr01
+Adam Frazier,Adam,Frazier,PIT,OF,33546,Adam Frazier,L,fraziad01
+David Freese,David,Freese,PIT,3B,29694,David Freese,R,freesda01
+Phil Gosselin,Phil,Gosselin,PIT,2B,31222,Phil Gosselin,R,gosseph01
+Alen Hanson,Alen,Hanson,PIT,2B,32560,Alen Hanson,B,hansoal01
+Josh Harrison,Josh,Harrison,PIT,2B,30934,Josh Harrison,R,harrijo05
+John Jaso,John,Jaso,PIT,1B,29255,John Jaso,L,jasojo01
+Jung-Ho Kang,Jung-Ho,Kang,PIT,3B,33689,Jung Ho Kang,R,kangju01
+Erik Kratz,Erik,Kratz,PIT,C,29524,Erik Kratz,R,kratzer01
+Starling Marte,Starling,Marte,PIT,OF,30830,Starling Marte,R,martest01
+Andrew McCutchen,Andrew,McCutchen,PIT,OF,28701,Andrew McCutchen,R,mccutan01
+Austin Meadows,Austin,Meadows,PIT,OF,33197,Austin Meadows,L,meadoau01
+Jordy Mercer,Jordy,Mercer,PIT,SS,30687,Jordy Mercer,R,mercejo03
+Kevin Newman,Kevin,Newman,PIT,SS,,,R,newmake01
+Eury Perez,Eury,Perez,PIT,OF,31286,Eury Perez,R,perezeu01
+Gregory Polanco,Gregory,Polanco,PIT,OF,32950,Gregory Polanco,L,polangr01
+Jason Rogers,Jason,Rogers,PIT,1B,32735,Jason Rogers,R,rogerja02
+Chris Stewart,Chris,Stewart,PIT,C,28577,Chris Stewart,R,stewach01
+Carlos Asuaje,Carlos,Asuaje,SD,2B,,,L,asuajca01
+Erick Aybar,Erick,Aybar,SD,SS,6522,Erick Aybar,B,aybarer01
+Christian Bethancourt,Christian,Bethancourt,SD,C,31758,Christian Bethancourt,R,bethach01
+Jabari Blash,Jabari,Blash,SD,OF,31765,Jabari Blash,R,blashja01
+Alex Dickerson,Alex,Dickerson,SD,OF,32956,Alex Dickerson,L,dickeal01
+Austin Hedges,Austin,Hedges,SD,C,32168,Austin Hedges,R,hedgeau01
+Travis Jankowski,Travis,Jankowski,SD,OF,32751,Travis Jankowski,L,jankotr01
+Manuel Margot,Manuel,Margot,SD,OF,33599,Manuel Margot,R,margoma01
+Wil Myers,Wil,Myers,SD,1B,31265,Wil Myers,R,myerswi01
+Rafael Ortega,Rafael,Ortega,SD,OF,31833,Rafael Ortega,L,ortegra01
+Jose Pirela,Jose,Pirela,SD,2B,30817,Jose Pirela,R,pireljo01
+Hunter Renfroe,Hunter,Renfroe,SD,OF,33205,Hunter Renfroe,R,renfrhu01
+Hector Sanchez,Hector,Sanchez,SD,C,30567,Hector Sanchez,B,sanchhe01
+Luis Sardinas,Luis,Sardinas,SD,SS,31927,Luis Sardinas,B,sardilu01
+Ryan Schimpf,Ryan,Schimpf,SD,2B,30909,Ryan Schimpf,L,schimry01
+Yangervis Solarte,Yangervis,Solarte,SD,3B,30898,Yangervis Solarte,B,solarya01
+Cory Spangenberg,Cory,Spangenberg,SD,2B,32169,Cory Spangenberg,L,spangco01
+Luis Urias,Luis,Urias,SD,2B,,,R,uriaslu01
+Brett Wallace,Brett,Wallace,SD,3B,30174,Brett Wallace,L,wallabr01
+Robinson Cano,Robinson,Cano,SEA,2B,6204,Robinson Cano,L,canoro01
+Nelson Cruz,Nelson,Cruz,SEA,OF,6242,Nelson Cruz,R,cruzne02
+Jarrod Dyson,Jarrod,Dyson,SEA,OF,30461,Jarrod Dyson,L,dysonja01
+Ben Gamel,Ben,Gamel,SEA,OF,31824,Ben Gamel,L,gamelbe01
+Tuffy Gosewisch,Tuffy,Gosewisch,SEA,C,29669,Tuffy Gosewisch,R,gosewtu01
+Mitch Haniger,Mitch,Haniger,SEA,OF,,,R,hanigmi01
+Guillermo Heredia,Guillermo,Heredia,SEA,OF,,,R,heredgu01
+Kyle Lewis,Kyle,Lewis,SEA,OF,,,R,lewisky01
+Leonys Martin,Leonys,Martin,SEA,OF,31588,Leonys Martin,L,martile01
+Taylor Motter,Taylor,Motter,SEA,OF,32715,Taylor Motter,R,motteta01
+Shawn O'Malley,Shawn,O'Malley,SEA,SS,30711,Shawn O'Malley,B,omallsh01
+Tyler O'Neill,Tyler,O'Neill,SEA,OF,,,R,oneilty01
+D.J. Peterson,D.J.,Peterson,SEA,3B,33208,D.J. Peterson,R,peterdj01
+Carlos Ruiz,Carlos,Ruiz,SEA,C,28447,Carlos Ruiz,R,ruizca01
+Kyle Seager,Kyle,Seager,SEA,3B,30819,Kyle Seager,L,seageky01
+Jean Segura,Jean,Segura,SEA,SS,31037,Jean Segura,R,segurje01
+Danny Valencia,Danny,Valencia,SEA,3B,29439,Danny Valencia,R,valenda01
+Dan Vogelbach,Dan,Vogelbach,SEA,1B,32851,Dan Vogelbach,L,vogelda01
+Mike Zunino,Mike,Zunino,SEA,C,32657,Mike Zunino,R,zuninmi01
+Christian Arroyo,Christian,Arroyo,SF,SS,,,R,arroych01
+Brandon Belt,Brandon,Belt,SF,1B,30901,Brandon Belt,L,beltbr01
+Trevor Brown,Trevor,Brown,SF,C,,,R,browntr01
+Brandon Crawford,Brandon,Crawford,SF,SS,30469,Brandon Crawford,L,crawfbr01
+Tim Federowicz,Tim,Federowicz,SF,C,31038,Tim Federowicz,R,federti01
+Conor Gillaspie,Conor,Gillaspie,SF,3B,29263,Conor Gillaspie,L,gillaco01
+Gorkys Hernandez,Gorkys,Hernandez,SF,OF,29550,Gorkys Hernandez,R,hernago01
+Nick Hundley,Nick,Hundley,SF,C,29180,Nick Hundley,R,hundlni01
+Michael Morse,Michael,Morse,SF,1B,6300,Michael Morse,R,morsemi01
+Eduardo Nunez,Eduardo,Nunez,SF,SS,30290,Eduardo Nunez,R,nunezed02
+Joe Panik,Joe,Panik,SF,2B,32087,Joe Panik,L,panikjo01
+Jarrett Parker,Jarrett,Parker,SF,OF,31499,Jarrett Parker,L,parkeja03
+Ramiro Pena,Ramiro,Pena,SF,2B,30121,Ramiro Pena,B,penara02
+Hunter Pence,Hunter,Pence,SF,OF,28687,Hunter Pence,R,pencehu01
+Josmil Pinto,Josmil,Pinto,SF,C,31851,Josmil Pinto,R,pintojo01
+Buster Posey,Buster,Posey,SF,C,30112,Buster Posey,R,poseybu01
+Denard Span,Denard,Span,SF,OF,29087,Denard Span,L,spande01
+Kelby Tomlinson,Kelby,Tomlinson,SF,2B,33394,Kelby Tomlinson,R,tomlike01
+Mac Williamson,Mac,Williamson,SF,OF,32765,Mac Williamson,R,willima11
+Matt Adams,Matt,Adams,STL,1B,31359,Matt Adams,L,adamsma01
+Dean Anna,Dean,Anna,STL,SS,30851,Dean Anna,L,annade01
+Matt Carpenter,Matt,Carpenter,STL,2B,31015,Matt Carpenter,L,carpema01
+Todd Cunningham,Todd,Cunningham,STL,OF,31227,Todd Cunningham,B,cunnito01
+Aledmys Diaz,Aledmys,Diaz,STL,SS,33390,Aledmys Diaz,R,diazal02
+Dexter Fowler,Dexter,Fowler,STL,OF,29252,Dexter Fowler,B,fowlede01
+Greg Garcia,Greg,Garcia,STL,SS,32211,Greg Garcia,L,garcigr01
+Randal Grichuk,Randal,Grichuk,STL,OF,31399,Randal Grichuk,R,grichra01
+Jedd Gyorko,Jedd,Gyorko,STL,SS,31402,Jedd Gyorko,R,gyorkje01
+Carson Kelly,Carson,Kelly,STL,C,,,R,kellyca02
+Jose Martinez,Jose,Martinez,STL,OF,31275,Jose Martinez,R,martijo08
+Yadier Molina,Yadier,Molina,STL,C,5986,Yadier Molina,R,molinya01
+Jhonny Peralta,Jhonny,Peralta,STL,3B,5527,Jhonny Peralta,R,peraljh01
+Delvin Perez,Delvin,Perez,STL,SS,,,R,perezde01
+Tommy Pham,Tommy,Pham,STL,OF,31208,Tommy Pham,R,phamto01
+Stephen Piscotty,Stephen,Piscotty,STL,OF,32842,Stephen Piscotty,R,piscost01
+Kolten Wong,Kolten,Wong,STL,2B,32061,Kolten Wong,L,wongko01
+Willy Adames,Willy,Adames,TB,SS,,,R,adamewi01
+Jake Bauers,Jake,Bauers,TB,1B,,,L,bauerja01
+Tim Beckham,Tim,Beckham,TB,SS,30212,Tim Beckham,R,beckhti01
+Peter Bourjos,Peter,Bourjos,TB,OF,29318,Peter Bourjos,R,bourjpe01
+Curt Casali,Curt,Casali,TB,C,32049,Curt Casali,R,casalcu01
+Jason Coats,Jason,Coats,TB,OF,,,R,coatsja01
+Corey Dickerson,Corey,Dickerson,TB,OF,31684,Corey Dickerson,L,dickeco01
+Matt Duffy,Matt,Duffy,TB,3B,33453,Matt Duffy,R,duffyma01
+Nick Franklin,Nick,Franklin,TB,OF,30661,Nick Franklin,B,frankni01
+Kevin Kiermaier,Kevin,Kiermaier,TB,OF,31446,Kevin Kiermaier,L,kiermke01
+Evan Longoria,Evan,Longoria,TB,3B,28639,Evan Longoria,R,longoev01
+Luke Maile,Luke,Maile,TB,C,,,R,mailelu01
+Michael McKenry,Michael,McKenry,TB,C,30529,Michael McKenry,R,mckenmi01
+Brad Miller,Brad,Miller,TB,SS,32206,Brad Miller,L,millebr02
+Logan Morrison,Logan,Morrison,TB,1B,30536,Logan Morrison,L,morrilo01
+Derek Norris,Derek,Norris,TB,C,30608,Derek Norris,R,norride01
+Shane Peterson,Shane,Peterson,TB,OF,31381,Shane Peterson,L,petersh01
+Wilson Ramos,Wilson,Ramos,TB,C,30173,Wilson Ramos,R,ramoswi01
+Colby Rasmus,Colby,Rasmus,TB,OF,28973,Colby Rasmus,L,rasmuco01
+Mallex Smith,Mallex,Smith,TB,OF,32933,Mallex Smith,R,smithma05
+Steven Souza,Steven,Souza,TB,OF,30632,Steven Souza Jr.,R,souzast01
+Rickie Weeks,Rickie,Weeks,TB,OF,5652,Rickie Weeks,R,weeksri01
+Elvis Andrus,Elvis,Andrus,TEX,SS,29515,Elvis Andrus,R,andruel01
+Adrian Beltre,Adrian,Beltre,TEX,3B,3878,Adrian Beltre,R,beltrad01
+Robinson Chirinos,Robinson,Chirinos,TEX,C,30445,Robinson Chirinos,R,chiriro01
+Shin-Soo Choo,Shin-Soo,Choo,TEX,OF,6205,Shin-Soo Choo,L,choosh01
+Delino Deshields Jr.,Delino,Deshields Jr.,TEX,OF,31360,Delino DeShields,R,deshide02
+Joey Gallo,Joey,Gallo,TEX,3B,32818,Joey Gallo,L,gallojo01
+Carlos Gomez,Carlos,Gomez,TEX,OF,28762,Carlos Gomez,R,gomezca01
+Josh Hamilton,Josh,Hamilton,TEX,OF,4652,Josh Hamilton,L,hamiljo03
+Jared Hoying,Jared,Hoying,TEX,OF,31217,Jared Hoying,L,hoyinja01
+James Jones,James,Jones,TEX,OF,30684,James Jones,L,jonesja06
+James Loney,James,Loney,TEX,1B,6497,James Loney,L,loneyja01
+Jonathan Lucroy,Jonathan,Lucroy,TEX,C,30456,Jonathan Lucroy,R,lucrojo01
+Nomar Mazara,Nomar,Mazara,TEX,OF,32820,Nomar Mazara,L,mazarno01
+Will Middlebrooks,Will,Middlebrooks,TEX,3B,31232,Will Middlebrooks,R,middlwi01
+Mike Napoli,Mike,Napoli,TEX,1B,28444,Mike Napoli,R,napolmi01
+Rougned Odor,Rougned,Odor,TEX,2B,32170,Rougned Odor,L,odorro01
+Jurickson Profar,Jurickson,Profar,TEX,3B,31117,Jurickson Profar,B,profaju01
+Ryan Rua,Ryan,Rua,TEX,OF,33631,Ryan Rua,R,ruary01
+Travis Snider,Travis,Snider,TEX,OF,29189,Travis Snider,L,snidetr01
+Leody Taveras,Leody,Taveras,TEX,OF,,,B,taverle01
+Anderson Tejeda,Anderson,Tejeda,TEX,2B,,,L,tejedan01
+Anthony Alford,Anthony,Alford,TOR,OF,32812,Anthony Alford,R,alforan01
+Darwin Barney,Darwin,Barney,TOR,SS,29567,Darwin Barney,R,barneda01
+Jose Bautista,Jose,Bautista,TOR,OF,5890,Jose Bautista,R,bautijo02
+Ezequiel Carrera,Ezequiel,Carrera,TOR,OF,29008,Ezequiel Carrera,L,carreez01
+Josh Donaldson,Josh,Donaldson,TOR,3B,29563,Josh Donaldson,R,donaljo02
+Jake Elmore,Jake,Elmore,TOR,OF,32179,Jake Elmore,R,elmorja01
+Ryan Goins,Ryan,Goins,TOR,SS,30636,Ryan Goins,L,goinsry01
+Lourdes Gourriel,Lourdes,Gourriel,TOR,3B,,,R,gourrlo01
+A.J. Jimenez,A.J.,Jimenez,TOR,C,31050,A.J. Jimenez,R,jimena.01
+Russell Martin,Russell,Martin,TOR,C,6390,Russell Martin,R,martiru01
+Kendrys Morales,Kendrys,Morales,TOR,DH,6188,Kendrys Morales,B,moralke01
+Steve Pearce,Steve,Pearce,TOR,1B,28886,Steve Pearce,R,pearcst01
+Kevin Pillar,Kevin,Pillar,TOR,OF,32859,Kevin Pillar,R,pillake01
+Dalton Pompey,Dalton,Pompey,TOR,DH,32210,Dalton Pompey,B,pompeda01
+Jarrod Saltalamacchia,Jarrod,Saltalamacchia,TOR,C,28663,Jarrod Saltalamacchia,B,saltaja01
+Justin Smoak,Justin,Smoak,TOR,1B,30175,Justin Smoak,B,smoakju01
+Rowdy Tellez,Rowdy,Tellez,TOR,1B,,,L,tellero01
+Devon Travis,Devon,Travis,TOR,2B,32938,Devon Travis,R,travide01
+Troy Tulowitzki,Troy,Tulowitzki,TOR,SS,28567,Troy Tulowitzki,R,tulowtr01
+Melvin Upton,Melvin,Upton,TOR,OF,5970,Melvin Upton,R,uptonbj01
+Wilmer Difo,Wilmer,Difo,WAS,2B,33659,Wilmer Difo,B,difowi01
+Stephen Drew,Stephen,Drew,WAS,2B,6298,Stephen Drew,L,drewst01
+Adam Eaton,Adam,Eaton,WAS,OF,32068,Adam Eaton,L,eatonad02
+Bryce Harper,Bryce,Harper,WAS,OF,30951,Bryce Harper,L,harpebr03
+Chris Heisey,Chris,Heisey,WAS,OF,30519,Chris Heisey,R,heisech01
+Corban Joseph,Corban,Joseph,WAS,2B,31250,Corban Joseph,L,josepco01
+Adam Lind,Adam,Lind,WAS,1B,28579,Adam Lind,L,lindad01
+Jose Lobaton,Jose,Lobaton,WAS,C,29710,Jose Lobaton,B,lobatjo01
+Daniel Murphy,Daniel,Murphy,WAS,2B,29200,Daniel Murphy,L,murphda08
+Anthony Rendon,Anthony,Rendon,WAS,3B,32098,Anthony Rendon,R,rendoan01
+Clint Robinson,Clint,Robinson,WAS,1B,,,L,robincl01
+Victor Robles,Victor,Robles,WAS,OF,35042,Victor Robles,R,roblevi01
+Pedro Severino,Pedro,Severino,WAS,C,33299,Pedro Severino,R,severpe01
+Brandon Snyder,Brandon,Snyder,WAS,3B,30124,Brandon Snyder,R,snydebr03
+Juan Soto,Juan,Soto,WAS,OF,,,L,sotoju01
+Michael Taylor,Michael,Taylor,WAS,OF,32219,Michael Taylor,R,taylomi02
+Trea Turner,Trea,Turner,WAS,2B,33710,Trea Turner,R,turnetr01
+Jayson Werth,Jayson,Werth,WAS,OF,4262,Jayson Werth,R,werthja01
+Matt Wieters,Matt,Wieters,WAS,C,29287,Matt Wieters,B,wietema01
+Ryan Zimmerman,Ryan,Zimmerman,WAS,1B,6389,Ryan Zimmerman,R,zimmery01

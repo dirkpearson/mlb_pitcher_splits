@@ -1,0 +1,73 @@
+<!-- Validation failure messages -->
+<% if @pitcher.errors.any? %>
+  <% @pitcher.errors.full_messages.each do |message| %>
+    <div class="alert alert-dismissable alert-danger">
+      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+      <%= message %>
+    </div>
+  <% end %>
+<% end %>
+
+<div class="page-header">
+  <h3>Add Pitcher</h3>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <form action="/create_pitcher" method="post">
+      <!-- Hidden input for authenticity token to protect from forgery -->
+      <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
+
+      <!-- Label and input for team_id -->
+      <div class="form-group">
+        <label for="team_id" class="control-label">
+          Team
+        </label>
+
+        <input type="text" id="team_id" name="team_id" placeholder="Team" class="form-control" value="<%= @pitcher.team_id %>">
+      </div>
+
+      <!-- Label and input for throws_id -->
+      <div class="form-group">
+        <label for="throws_id" class="control-label">
+          Throws
+        </label>
+
+        <input type="text" id="throws_id" name="throws_id" placeholder="Throws" class="form-control" value="<%= @pitcher.throws_id %>">
+      </div>
+
+      <!-- Label and input for first_name -->
+      <div class="form-group">
+        <label for="first_name" class="control-label">
+          First name
+        </label>
+
+        <input type="text" id="first_name" name="first_name" placeholder="First name" class="form-control" value="<%= @pitcher.first_name %>">
+      </div>
+
+      <!-- Label and input for last_name -->
+      <div class="form-group">
+        <label for="last_name" class="control-label">
+          Last name
+        </label>
+
+        <input type="text" id="last_name" name="last_name" placeholder="Last name" class="form-control" value="<%= @pitcher.last_name %>">
+      </div>
+
+      <!-- Label and input for pitcher_name -->
+      <div class="form-group">
+        <label for="pitcher_name" class="control-label">
+          Pitcher name
+        </label>
+
+        <input type="text" id="pitcher_name" name="pitcher_name" placeholder="Pitcher name" class="form-control" value="<%= @pitcher.pitcher_name %>">
+      </div>
+
+      <button class="btn btn-success">
+        Create Pitcher
+      </button>
+      or
+      <a href="/pitchers">Cancel</a>
+    </form>
+  </div>
+</div>

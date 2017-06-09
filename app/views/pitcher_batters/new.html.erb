@@ -1,0 +1,154 @@
+<!-- Validation failure messages -->
+<% if @pitcher_batter.errors.any? %>
+  <% @pitcher_batter.errors.full_messages.each do |message| %>
+    <div class="alert alert-dismissable alert-danger">
+      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+      <%= message %>
+    </div>
+  <% end %>
+<% end %>
+
+<div class="page-header">
+  <h3>Add Pitcher Batter</h3>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <form action="/create_pitcher_batter" method="post">
+      <!-- Hidden input for authenticity token to protect from forgery -->
+      <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
+
+      <!-- Label and input for pitcher_id -->
+      <div class="form-group">
+        <label for="pitcher_id" class="control-label">
+          Pitcher
+        </label>
+
+        <input type="text" id="pitcher_id" name="pitcher_id" placeholder="Pitcher" class="form-control" value="<%= @pitcher_batter.pitcher_id %>">
+      </div>
+
+      <!-- Label and input for batter_id -->
+      <div class="form-group">
+        <label for="batter_id" class="control-label">
+          Batter
+        </label>
+
+        <input type="text" id="batter_id" name="batter_id" placeholder="Batter" class="form-control" value="<%= @pitcher_batter.batter_id %>">
+      </div>
+
+      <!-- Label and input for np -->
+      <div class="form-group">
+        <label for="np" class="control-label">
+          Np
+        </label>
+
+        <input type="text" id="np" name="np" placeholder="Np" class="form-control" value="<%= @pitcher_batter.np %>">
+      </div>
+
+      <!-- Label and input for pa -->
+      <div class="form-group">
+        <label for="pa" class="control-label">
+          Pa
+        </label>
+
+        <input type="text" id="pa" name="pa" placeholder="Pa" class="form-control" value="<%= @pitcher_batter.pa %>">
+      </div>
+
+      <!-- Label and input for ab -->
+      <div class="form-group">
+        <label for="ab" class="control-label">
+          Ab
+        </label>
+
+        <input type="text" id="ab" name="ab" placeholder="Ab" class="form-control" value="<%= @pitcher_batter.ab %>">
+      </div>
+
+      <!-- Label and input for hits -->
+      <div class="form-group">
+        <label for="hits" class="control-label">
+          Hits
+        </label>
+
+        <input type="text" id="hits" name="hits" placeholder="Hits" class="form-control" value="<%= @pitcher_batter.hits %>">
+      </div>
+
+      <!-- Label and input for double -->
+      <div class="form-group">
+        <label for="double" class="control-label">
+          Double
+        </label>
+
+        <input type="text" id="double" name="double" placeholder="Double" class="form-control" value="<%= @pitcher_batter.double %>">
+      </div>
+
+      <!-- Label and input for triple -->
+      <div class="form-group">
+        <label for="triple" class="control-label">
+          Triple
+        </label>
+
+        <input type="text" id="triple" name="triple" placeholder="Triple" class="form-control" value="<%= @pitcher_batter.triple %>">
+      </div>
+
+      <!-- Label and input for hr -->
+      <div class="form-group">
+        <label for="hr" class="control-label">
+          Hr
+        </label>
+
+        <input type="text" id="hr" name="hr" placeholder="Hr" class="form-control" value="<%= @pitcher_batter.hr %>">
+      </div>
+
+      <!-- Label and input for avg -->
+      <div class="form-group">
+        <label for="avg" class="control-label">
+          Avg
+        </label>
+
+        <input type="text" id="avg" name="avg" placeholder="Avg" class="form-control" value="<%= @pitcher_batter.avg %>">
+      </div>
+
+      <!-- Label and input for obp -->
+      <div class="form-group">
+        <label for="obp" class="control-label">
+          Obp
+        </label>
+
+        <input type="text" id="obp" name="obp" placeholder="Obp" class="form-control" value="<%= @pitcher_batter.obp %>">
+      </div>
+
+      <!-- Label and input for slg -->
+      <div class="form-group">
+        <label for="slg" class="control-label">
+          Slg
+        </label>
+
+        <input type="text" id="slg" name="slg" placeholder="Slg" class="form-control" value="<%= @pitcher_batter.slg %>">
+      </div>
+
+      <!-- Label and input for ops -->
+      <div class="form-group">
+        <label for="ops" class="control-label">
+          Ops
+        </label>
+
+        <input type="text" id="ops" name="ops" placeholder="Ops" class="form-control" value="<%= @pitcher_batter.ops %>">
+      </div>
+
+      <!-- Label and input for woba -->
+      <div class="form-group">
+        <label for="woba" class="control-label">
+          Woba
+        </label>
+
+        <input type="text" id="woba" name="woba" placeholder="Woba" class="form-control" value="<%= @pitcher_batter.woba %>">
+      </div>
+
+      <button class="btn btn-success">
+        Create Pitcher Batter
+      </button>
+      or
+      <a href="/pitcher_batters">Cancel</a>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+PARKID,NAME,AKA,CITY,STATE,START,END,LEAGUE,Team Code
+ANA01,Angel Stadium of Anaheim,Edison Field; Anaheim Stadium,Anaheim,CA,4/19/1966,,AL,LAA
+ARL02,Rangers Ballpark in Arlington,The Ballpark in Arlington; Ameriquest Fl,Arlington,TX,4/11/1994,,AL,TEX
+ATL02,SunTrust Park,,Atlanta,GA,3/31/2017,,NL,ATL
+BAL12,Oriole Park at Camden Yards,,Baltimore,MD,4/6/1992,,AL,BAL
+BOS07,Fenway Park,,Boston,MA,4/20/1912,,AL,BOS
+CHI11,Wrigley Field,Weeghman Park; Cubs Park,Chicago,IL,4/23/1914,,NL,CHC
+CHI12,U.S. Cellular Field,White Sox Park; Comiskey Park II,Chicago,IL,4/18/1991,,AL,CHW
+CIN09,Great American Ballpark,,Cincinnati,OH,3/31/2003,,NL,CIN
+CLE08,Progressive Field,Jacobs Field,Cleveland,OH,4/4/1994,,AL,CLE
+DEN02,Coors Field,,Denver,CO,4/26/1995,,NL,COL
+DET05,Comerica Park,,Detroit,MI,4/11/2000,,AL,DET
+HOU03,Minute Maid Park,Enron Field; Astros Field,Houston,TX,4/7/2000,,NL,HOU
+KAN06,Kauffman Stadium,Royals Stadium,Kansas City,MO,4/10/1973,,AL,KC
+LOS03,Dodger Stadium,Chavez Ravine,Los Angeles,CA,4/10/1962,,NL,LAD
+MIA02,Marlins Park,,Miami,FL,4/4/2012,,NL,MIA
+MIL06,Miller Park,,Milwaukee,WI,4/6/2001,,NL,MIL
+MIN04,Target Field,,Minneapolis,MN,4/12/2010,,AL,MIN
+NYC20,Citi Field,,New York,NY,4/13/2009,,NL,NYM
+NYC21,Yankee Stadium II,,New York,NY,4/16/2009,,AL,NYY
+OAK01,Oakland-Alameda County Coliseum,Network Associates Coliseum,Oakland,CA,4/17/1968,,AL,OAK
+PHI13,Citizens Bank Park,,Philadelphia,PA,4/12/2004,,NL,PHI
+PHO01,Chase Field,Bank One Ballpark,Phoenix,AZ,3/31/1998,,NL,ARI
+PIT08,PNC Park,,Pittsburgh,PA,4/9/2001,,NL,PIT
+SAN02,PETCO Park,,San Diego,CA,4/8/2004,,NL,SD
+SEA03,Safeco Field,,Seattle,WA,7/15/1999,,AL,SEA
+SFO03,AT&T Park,Pacific Bell Park; SBC Park,San Francisco,CA,4/11/2000,,NL,SF
+STL10,Busch Stadium III,,St. Louis,MO,4/10/2006,,NL,STL
+STP01,Tropicana Field,,St. Petersburg,FL,3/31/1998,,AL,TB
+TOR02,Rogers Centre,Skydome,Toronto,ONT,6/5/1989,,AL,TOR
+WAS11,Nationals Park,,Washington,DC,3/30/2008,,NL,WAS
