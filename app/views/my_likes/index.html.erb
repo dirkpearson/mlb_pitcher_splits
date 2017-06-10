@@ -16,7 +16,7 @@
       <% @likes.each do |like| %>
       <tr>
         <td><%= like.user_id %></td>
-        <td><%= like.pitcher.pitcher_name %></td>
+        <td><a href="/pitchers/<%= like.pitcher.id %>" class="link_to"><%= like.pitcher.pitcher_name %></td>
         <td>
 
           <a href="/my_likes/<%= like.id %>/edit" class="btn btn-warning">Edit</a>
